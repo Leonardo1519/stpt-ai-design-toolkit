@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_25-3);
+      }
+
+      .cls-2 {
+        fill: #00072b;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_25-4);
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_24);
+      }
+
+      .cls-5 {
+        fill: url(#_未命名的渐变_25);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: url(#_未命名的渐变_25-2);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-7" d="M82.75,56.44c24.45,34.36,63.89,53.23,103.12,45.93,2.77-.52,6.17-1.13,9.4-2.07,9.68-2.81,13.65,5.96,8.57,10.96-2.99,2.98-5.66,5.72-8.22,7.99-17.66,15.68-37.17,29.82-58.42,42.09-21.39,12.35-43.53,22.22-66.09,29.69-3.15,1.05-6.61,2.24-10.56,3.3-8.49,1.9-11.32-8.6-5.58-13.88,3.04-2.8,4.85-4.8,6.7-6.96,25.93-30.32,28.35-72.74,10.37-110.88-.78-1.65-1.64-3.66-2.54-5.85-2.49-6.1,4.8-10.6,9.07-5.59,1.69,1.98,3.16,3.8,4.19,5.24Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_25" data-name="未命名的渐变 25" x1="-31227.72" y1="3590.26" x2="-24263.51" y2="-3373.95" gradientTransform="translate(8.81 -128.68) rotate(-117.98) scale(0 -.01) skewX(-5.27)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27b1ef"/>
+      <stop offset=".2" stop-color="#26defa"/>
+      <stop offset=".41" stop-color="#30f4fd"/>
+      <stop offset=".65" stop-color="#effdfb"/>
+      <stop offset=".86" stop-color="#fac510"/>
+      <stop offset="1" stop-color="#fc9b22"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_25-2" data-name="未命名的渐变 25" x1="-31227.72" y1="-488.55" x2="-24263.51" y2="-7452.75" gradientTransform="translate(6.25 -127.07) rotate(-117.98) scale(0) skewX(5.27)" xlink:href="#_未命名的渐变_25"/>
+    <linearGradient id="_未命名的渐变_25-3" data-name="未命名的渐变 25" x1="34093.43" y1="3590.26" x2="41057.63" y2="-3373.95" gradientTransform="translate(8.8 -128.7) rotate(62.02) scale(0) skewX(5.27)" xlink:href="#_未命名的渐变_25"/>
+    <linearGradient id="_未命名的渐变_25-4" data-name="未命名的渐变 25" x1="34093.43" y1="-488.55" x2="41057.63" y2="-7452.75" gradientTransform="translate(6.24 -127.09) rotate(62.02) scale(0 -.01) skewX(-5.27)" xlink:href="#_未命名的渐变_25"/>
+    <linearGradient id="_未命名的渐变_24" data-name="未命名的渐变 24" x1="109.6" y1="208.04" x2="192.61" y2="160.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#23acf0"/>
+      <stop offset=".11" stop-color="#22a6f1"/>
+      <stop offset=".25" stop-color="#2097f5"/>
+      <stop offset=".41" stop-color="#1d7dfb"/>
+      <stop offset=".48" stop-color="#1c6fff"/>
+      <stop offset=".61" stop-color="#1e88f8"/>
+      <stop offset=".75" stop-color="#21a0f2"/>
+      <stop offset=".89" stop-color="#23aeef"/>
+      <stop offset="1" stop-color="#24b4ee"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <g class="cls-6">
+      <g>
+        <polygon class="cls-5" points="137 170.8 67.41 39.85 167.22 -22.76 236.8 108.19 137 170.8" shape-rendering="crispEdges"/>
+        <polygon class="cls-8" points="137 170.8 67.41 39.85 -32.39 102.45 37.2 233.41 137 170.8" shape-rendering="crispEdges"/>
+        <polygon class="cls-1" points="137 170.8 206.58 301.75 306.38 239.15 236.8 108.19 137 170.8" shape-rendering="crispEdges"/>
+        <polygon class="cls-3" points="137 170.8 206.58 301.75 106.78 364.36 37.2 233.41 137 170.8" shape-rendering="crispEdges"/>
+      </g>
+    </g>
+    <path class="cls-4" d="M180.54,139.22c-16.18,19.94-19.61,41.4-16.56,59.78,.06,.34,.11,.71,.17,1.11,.81,5.51-5.69,8.9-10.09,5.49-.22-.17-.44-.34-.65-.5-14.76-11.24-32.18-19.69-55.35-17.03,14.03-4.11,28.37-10.2,42.39-18.29,15.39-8.88,28.88-19.32,40.09-30.55Z"/>
+  </g>
+</svg>

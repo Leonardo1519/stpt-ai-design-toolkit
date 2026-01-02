@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4f4f4;
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_87);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_101);
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_64);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_87" data-name="未命名的渐变 87" x1="29.41" y1="155.86" x2="226.59" y2="155.86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f61e0"/>
+      <stop offset=".21" stop-color="#3064e1"/>
+      <stop offset=".41" stop-color="#3570e4"/>
+      <stop offset=".6" stop-color="#3d83ea"/>
+      <stop offset=".8" stop-color="#499ef3"/>
+      <stop offset=".99" stop-color="#57c1fe"/>
+      <stop offset="1" stop-color="#59c4ff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_101" data-name="未命名的渐变 101" x1="77.18" y1="177.15" x2="160.54" y2="77.79" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#305fc7"/>
+      <stop offset=".21" stop-color="#325bc6"/>
+      <stop offset=".42" stop-color="#3b4fc5"/>
+      <stop offset=".62" stop-color="#4a3cc4"/>
+      <stop offset=".81" stop-color="#5e21c1"/>
+      <stop offset="1" stop-color="#7800bf"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_64" data-name="未命名的渐变 64" x1="180.04" y1="192.21" x2="203.18" y2="177.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0050ff"/>
+      <stop offset=".37" stop-color="#256efc"/>
+      <stop offset=".78" stop-color="#498bfa"/>
+      <stop offset="1" stop-color="#5797fa"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <path class="cls-2" d="M140.41,190.4c-54.01,19.39-103.34,19.66-110.21,.58-6.85-19.08,31.37-50.28,85.39-69.67,.84-.29,1.67-.6,2.49-.88l-.72,2.14c-39.6,14.78-67.61,37.7-62.57,51.23,5.04,13.54,41.25,12.55,80.9-2.24,39.64-14.76,67.67-37.7,62.63-51.23-4.16-11.2-29.66-12.45-60.76-4.2l-.82-1.52c45.2-12.45,83.13-10.45,89.06,6.11,6.87,19.06-31.37,50.26-85.39,69.67Z"/>
+    <path class="cls-3" d="M111.96,59.23l-39.2,114.21s16,.6,27.52-1.11l26.27-76.55,18.53,34.28s-4.69,2.51-9.57,4.71c-2.61,1.18-10.62,3.87-10.62,3.87,0,0-7.71,22.7-11.11,31.91,0,0,35.87-12.15,59.03-29.87,3.17-2.42,4.09-6.8,2.17-10.29l-40.21-73.17c-5.07-9.07-19.23-8.41-22.81,2.02Z"/>
+    <path class="cls-4" d="M184.98,173.54s1.15,11.4-5.73,17.41c0,0,11.86-2.87,19.12,5.39,0,0-3.3-12.44,4.6-18.91,0,0-12.78,1.82-17.99-3.88Z"/>
+  </g>
+</svg>

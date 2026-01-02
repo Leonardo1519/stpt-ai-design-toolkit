@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ddd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_38);
+      }
+
+      .cls-3, .cls-4 {
+        opacity: .6;
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_23);
+      }
+
+      .cls-5 {
+        fill: url(#_未命名的渐变_31);
+        opacity: .66;
+      }
+
+      .cls-6 {
+        fill: #26241e;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_31" data-name="未命名的渐变 31" x1="-6.39" y1="282.08" x2="-6.39" y2="321.46" gradientTransform="translate(142.9 -530.23) scale(2.33)" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#fff" stop-opacity=".39"/>
+      <stop offset=".66" stop-color="#fff" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_38" data-name="未命名的渐变 38" x1="27.69" y1="262.31" x2="-6.5" y2="282.36" gradientTransform="translate(142.9 -530.23) scale(2.33)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#fff" stop-opacity=".31"/>
+      <stop offset=".71" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_23" data-name="未命名的渐变 23" x1="-6.34" y1="242.74" x2="-40.53" y2="301.77" gradientTransform="translate(142.9 -530.23) scale(2.33)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".6"/>
+      <stop offset=".67" stop-color="#fff" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-6" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <path class="cls-5" d="M128,219.84l79.82-45.95-79.82-45.95-79.82,45.95,79.82,45.95Z"/>
+    <path class="cls-3" d="M207.82,173.89V82.11l-79.82-45.95V127.94l79.82,45.95Z"/>
+    <path class="cls-4" d="M128,36.16L48.31,82.11v91.78l79.82-45.95V36.16h-.13Z"/>
+    <path class="cls-1" d="M207.82,82.11l-79.82,137.73V127.94l79.82-45.82Z"/>
+    <path class="cls-2" d="M207.82,82.11l-79.82,45.82L48.31,82.11H207.82Z"/>
+  </g>
+</svg>

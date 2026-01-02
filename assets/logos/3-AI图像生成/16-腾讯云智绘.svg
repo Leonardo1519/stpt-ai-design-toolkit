@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4f4f4;
+      }
+
+      .cls-2 {
+        fill: none;
+        opacity: .8;
+        stroke: url(#_未命名的渐变_75);
+        stroke-miterlimit: 10;
+        stroke-width: 45.61px;
+      }
+
+      .cls-3 {
+        fill: #122ecc;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_75" data-name="未命名的渐变 75" x1="54.47" y1="108.37" x2="243.47" y2="108.37" gradientTransform="translate(19.63 277.85) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".18" stop-color="#ecfef7"/>
+      <stop offset=".24" stop-color="#cef8e8"/>
+      <stop offset=".33" stop-color="#adf3d7"/>
+      <stop offset=".43" stop-color="#92eeca"/>
+      <stop offset=".53" stop-color="#7eeac0"/>
+      <stop offset=".65" stop-color="#6fe7b8"/>
+      <stop offset=".78" stop-color="#66e6b4"/>
+      <stop offset="1" stop-color="#64e6b3"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <circle class="cls-2" cx="128" cy="128.88" r="71.7"/>
+    <path class="cls-3" d="M194.43,196.09c-17.09,16.83-40.54,27.22-66.43,27.22s-49.34-10.39-66.43-27.22l55.96-56.81c5.76-5.84,15.18-5.84,20.94,0l55.96,56.81Z"/>
+    <circle class="cls-2" cx="128" cy="128.88" r="71.7"/>
+  </g>
+</svg>

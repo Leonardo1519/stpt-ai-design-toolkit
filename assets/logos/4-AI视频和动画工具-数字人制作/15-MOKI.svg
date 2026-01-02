@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_2);
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #010135;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: 'AlibabaPuHuiTi_3_45_Light', 'Alibaba PuHuiTi 3.0';
+        font-size: 18px;
+        letter-spacing: .22em;
+        opacity: .8;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="90.9" y1="1028.1" x2="164.74" y2="921.73" gradientTransform="translate(0 1086) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#a5ff80"/>
+      <stop offset=".35" stop-color="#e4ffa4"/>
+      <stop offset=".55" stop-color="#ffeaf7"/>
+      <stop offset=".85" stop-color="#c79eff"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <g id="Logo">
+      <path id="Union" class="cls-1" d="M117.25,136.32c13.85,0,25.08-11.18,25.08-24.98s-11.23-24.98-25.08-24.98-25.08,11.18-25.08,24.98,11.23,24.98,25.08,24.98Zm87.75-49.96c-1.97,0-3.57,1.6-3.57,3.57v42.82c0,1.97,1.6,3.57,3.57,3.57h14.36c1.97,0,3.57-1.6,3.57-3.57v-42.82c0-1.97-1.6-3.57-3.57-3.57h-14.36Zm-12.99,5.64c1.69-2.36,0-5.64-2.92-5.64h-36.03c-1.98,0-3.58,1.6-3.58,3.57v42.82c0,1.97,1.6,3.57,3.58,3.57h36.03c2.91,0,4.61-3.28,2.92-5.64l-12.38-17.26c-.89-1.24-.89-2.91,0-4.15l12.38-17.26Zm-158.95-1.81c0-2.99,3.47-4.65,5.81-2.79l17.93,14.21c1.31,1.03,3.16,1.03,4.46,0l17.93-14.21c2.35-1.86,5.81-.2,5.81,2.79v42.56c0,1.97-1.6,3.57-3.58,3.57H36.65c-1.98,0-3.58-1.6-3.58-3.57v-42.56Z"/>
+    </g>
+    <text class="cls-3" transform="translate(63.97 168.56)"><tspan x="0" y="0">我用AI做短片</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4f4f4;
+      }
+
+      .cls-2 {
+        fill: #707070;
+        font-family: 'AlibabaPuHuiTi_3_55_Regular', 'Alibaba PuHuiTi 3.0';
+        font-size: 24px;
+      }
+
+      .cls-3 {
+        fill: #1772f9;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <g>
+      <polygon class="cls-3" points="93.02 95.61 31.45 95.61 42.16 74.47 103.3 74.47 93.02 95.61"/>
+      <polygon class="cls-3" points="163.32 95.61 205.03 95.61 194.32 74.47 153.04 74.47 163.32 95.61"/>
+      <polygon class="cls-3" points="177.98 124.79 219.68 124.79 208.97 103.65 167.69 103.65 177.98 124.79"/>
+      <polygon class="cls-3" points="192.63 153.97 234.33 153.97 223.63 132.84 182.35 132.84 192.63 153.97"/>
+      <polygon class="cls-3" points="63.29 153.97 33.42 153.97 59.35 103.53 89.64 103.53 63.29 153.97"/>
+      <polygon class="cls-3" points="102.18 153.97 71.46 153.97 112.04 74.47 128.52 103.53 102.18 153.97"/>
+      <polygon class="cls-3" points="155.01 153.97 185.73 153.97 145.15 74.47 128.66 103.53 155.01 153.97"/>
+    </g>
+    <text class="cls-2" transform="translate(83.98 192.69) scale(1.05 1)"><tspan class="cls-4" x="0" y="0">S</tspan><tspan x="13.56" y="0">TUDIO</tspan></text>
+  </g>
+</svg>

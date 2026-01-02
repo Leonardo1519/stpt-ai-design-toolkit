@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_51);
+      }
+
+      .cls-2 {
+        fill: #f4f4f4;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_26);
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .66px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#_未命名的渐变_30);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        clip-rule: evenodd;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-5" d="M30.09,195.2h49.37c8.91,0,17.04-5.09,20.93-13.1l58.88-121.29h-48.43c-8.86,0-16.94,5.03-20.86,12.97L30.09,195.2Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_51" data-name="未命名的渐变 51" x1="471.79" y1="-20.5" x2="396.73" y2="71.33" gradientTransform="translate(-879.89 119.38) scale(2.16 1.45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2800d6"/>
+      <stop offset=".23" stop-color="#3537e2"/>
+      <stop offset=".41" stop-color="#3f5eeb"/>
+      <stop offset=".47" stop-color="#426cee"/>
+      <stop offset=".61" stop-color="#4a8cf5"/>
+      <stop offset=".75" stop-color="#50a2fa"/>
+      <stop offset=".88" stop-color="#53b0fd"/>
+      <stop offset="1" stop-color="#55b5ff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_30" data-name="未命名的渐变 30" x1="250.65" y1="-129.26" x2="320.46" y2="-129.68" gradientTransform="translate(-142.41 211.39)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d72ff"/>
+      <stop offset=".58" stop-color="#2aaaff"/>
+      <stop offset="1" stop-color="#33cfff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_26" data-name="未命名的渐变 26" x1="133.91" y1="117.65" x2="218.68" y2="202.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f11ced"/>
+      <stop offset=".23" stop-color="#f445cd"/>
+      <stop offset=".76" stop-color="#fba086"/>
+      <stop offset="1" stop-color="#ffc56a"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <g class="cls-7">
+      <path class="cls-4" d="M30.09,195.2h49.37c8.91,0,17.04-5.09,20.93-13.1l58.88-121.29h-48.43c-8.86,0-16.94,5.03-20.86,12.97L30.09,195.2Z"/>
+      <g>
+        <rect class="cls-1" x="-17.19" y="86.26" width="149.44" height="139.77" transform="translate(-61.92 40.29) rotate(-25.65)"/>
+        <rect class="cls-6" x="108.53" y="33.62" width="69.23" height="96.61" transform="translate(-21.35 70.04) rotate(-25.65)"/>
+      </g>
+    </g>
+    <path class="cls-3" d="M126.85,124.71h53.03c5.38,0,10.31,2.97,12.82,7.72l33.2,62.77h-53.38c-5.49,0-10.51-3.1-12.97-8.01l-32.71-62.48Z"/>
+  </g>
+</svg>

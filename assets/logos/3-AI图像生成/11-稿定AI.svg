@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4f4f4;
+      }
+
+      .cls-2 {
+        fill: #222529;
+      }
+
+      .cls-3 {
+        letter-spacing: .48em;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        letter-spacing: .46em;
+      }
+
+      .cls-6 {
+        fill: #707070;
+        font-family: 'AlibabaPuHuiTi_3_55_Regular', 'Alibaba PuHuiTi 3.0';
+        font-size: 20px;
+      }
+
+      .cls-7 {
+        fill: url(#_未命名的渐变_25);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-9" d="M358.75,56.44c24.45,34.36,63.89,53.23,103.12,45.93,2.77-.52,6.17-1.13,9.4-2.07,9.68-2.81,13.65,5.96,8.57,10.96-2.99,2.98-5.66,5.72-8.22,7.99-17.66,15.68-37.17,29.82-58.42,42.09-21.39,12.35-43.53,22.22-66.09,29.69-3.15,1.05-6.61,2.24-10.56,3.3-8.49,1.9-11.32-8.6-5.58-13.88,3.04-2.8,4.85-4.8,6.7-6.96,25.93-30.32,28.35-72.74,10.37-110.88-.78-1.65-1.64-3.66-2.54-5.85-2.49-6.1,4.8-10.6,9.07-5.59,1.69,1.98,3.16,3.8,4.19,5.24Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_25" data-name="未命名的渐变 25" x1="-30951.72" y1="-488.55" x2="-23987.51" y2="-7452.75" gradientTransform="translate(283.53 -124.67) rotate(-117.98) scale(0) skewX(5.27)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27b1ef"/>
+      <stop offset=".2" stop-color="#26defa"/>
+      <stop offset=".41" stop-color="#30f4fd"/>
+      <stop offset=".65" stop-color="#effdfb"/>
+      <stop offset=".86" stop-color="#fac510"/>
+      <stop offset="1" stop-color="#fc9b22"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <rect class="cls-9" x="32.9" y="72.69" width="194.52" height="84.88"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-1" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g class="cls-8">
+    <polygon class="cls-7" points="413 170.8 343.41 39.85 243.61 102.45 313.2 233.41 413 170.8" shape-rendering="crispEdges"/>
+  </g>
+  <g>
+    <g class="cls-4">
+      <g>
+        <path class="cls-2" d="M99.41,72.69h-10.72v6.32h-23.6v-4.19l-30.03,4.24v8.49l12.87-1.83v12.44h-12.87v8.49h10.72l-12.87,40.31h8.58l6.44-20.16v30.78h8.58v-50.94h8.58v-8.49h-8.58v-13.62l8.58-1.22v4.24h57.93v-8.55h-23.6v-6.31Z"/>
+        <path class="cls-2" d="M110.14,106.64v-14.84h-32.18v14.84h8.58v-6.36h15.02v6.36s8.58,0,8.58,0Zm-45.06,6.37v44.56h8.58v-38.2h40.77v38.2h8.58v-46.69h-57.93v2.13Z"/>
+        <polygon class="cls-2" points="86.54 123.63 77.96 123.63 77.96 140.59 86.54 140.59 86.54 123.63 86.54 123.63"/>
+        <path class="cls-2" d="M101.55,138.47c0,.56-.23,1.1-.63,1.5-.4,.4-.95,.63-1.51,.63h-12.85v8.49h15c2.27,0,4.45-.89,6.07-2.49,1.61-1.59,2.51-3.75,2.51-6v-16.98h-8.58v14.85h0Z"/>
+        <polygon class="cls-2" points="146.79 87.55 215.46 87.55 215.46 79.06 186.34 79.06 186.34 72.69 175.62 72.69 175.62 79.07 138.22 79.07 138.22 96.04 146.79 96.04 146.79 87.55 146.79 87.55"/>
+        <path class="cls-2" d="M202.58,149.09h-1.07c-5.43,0-10.85-.7-16.09-2.12v-40.37h27.89v-8.49h-64.37v8.49h27.89v37.33c-7.67-3.34-14.57-8.23-20.27-14.36,.97-4.76,1.49-9.61,1.56-14.47h-8.58c0,1.67-.11,3.33-.26,4.99-.99,11.54-4.9,22.63-11.37,32.23l6.72,5.32c2.88-4.2,5.34-8.67,7.34-13.36,.74-1.7,1.45-3.42,1.99-5.16,12.92,11.98,29.91,18.62,47.54,18.57h22.52v-8.49l-21.45-.12Z"/>
+        <polygon class="cls-2" points="224.03 87.55 215.46 87.55 215.46 96.04 224.03 96.04 224.03 87.55 224.03 87.55"/>
+        <path class="cls-2" d="M213.31,119.37h-23.6v8.49h23.6v-8.49Z"/>
+      </g>
+    </g>
+    <text class="cls-6" transform="translate(31.4 185.61) scale(1.05 1)"><tspan class="cls-3" x="0" y="0">G</tspan><tspan class="cls-5" x="23.3" y="0">A</tspan><tspan class="cls-3" x="45.84" y="0">ODINGAI</tspan></text>
+  </g>
+</svg>

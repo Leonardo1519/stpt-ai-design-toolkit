@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_8);
+      }
+
+      .cls-2 {
+        fill: #f4f4f4;
+      }
+
+      .cls-3 {
+        fill: #002f81;
+      }
+
+      .cls-4 {
+        fill: #17f291;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_8" data-name="未命名的渐变 8" x1="43.37" y1="134.15" x2="160.48" y2="134.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c47eff"/>
+      <stop offset="1" stop-color="#4346ff"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <polygon class="cls-1" points="160.48 54.89 43.37 213.42 160.48 213.42 160.48 54.89"/>
+    <polygon class="cls-3" points="108.33 183.02 160.48 213.42 160.48 183.02 108.33 183.02"/>
+    <polygon class="cls-4" points="212.63 40.58 108.33 183.02 212.63 183.02 212.63 40.58"/>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        letter-spacing: .18em;
+      }
+
+      .cls-2 {
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+        font-size: 25px;
+      }
+
+      .cls-4 {
+        letter-spacing: .05em;
+      }
+
+      .cls-5 {
+        fill: url(#_未命名的渐变_133);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_133" data-name="未命名的渐变 133" x1="14.64" y1="241.36" x2="241.36" y2="14.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9033ff"/>
+      <stop offset=".17" stop-color="#8b32fc"/>
+      <stop offset=".35" stop-color="#7f31f4"/>
+      <stop offset=".53" stop-color="#6a30e6"/>
+      <stop offset=".72" stop-color="#4c2dd3"/>
+      <stop offset=".91" stop-color="#272abb"/>
+      <stop offset="1" stop-color="#1229ad"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-5" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <g>
+      <path class="cls-1" d="M35.73,54.6c-1.38-.45-2.85,.48-3,1.93-1.2,11.43-3.2,57.11,31.83,91.16,11.43,11.11,36.65,29.14,62.33,10.48,0,0-6.29,2.87-16.08,2.39-8.75-.43-18.96-3.5-28.52-18.68-7.42-11.78-10.86-27.49-6.73-28.8,2-.63,5.59,.17,18.63,12.98,8.02,7.88,22.32,20.35,33.14,30.42,0,0-7.92-74.57-91.6-101.89Z"/>
+      <path class="cls-1" d="M220.27,54.6c1.38-.45,2.85,.48,3,1.93,1.2,11.43,3.2,57.11-31.83,91.16-11.43,11.11-36.65,29.14-62.33,10.48,0,0,6.29,2.87,16.08,2.39,8.75-.43,18.96-3.5,28.52-18.68,7.42-11.78,10.86-27.49,6.73-28.8-2-.63-5.59,.17-18.63,12.98-8.02,7.88-22.32,20.35-33.14,30.42,0,0,7.92-74.57,91.6-101.89Z"/>
+    </g>
+    <text class="cls-2" transform="translate(83.54 204.24)"><tspan class="cls-3" x="0" y="0">HIF</tspan><tspan class="cls-4" x="55.42" y="0">L</tspan><tspan class="cls-3" x="71.87" y="0">Y</tspan></text>
+  </g>
+</svg>

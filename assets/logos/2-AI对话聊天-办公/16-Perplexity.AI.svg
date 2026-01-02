@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_51);
+      }
+
+      .cls-2 {
+        fill: #f4f4f4;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        clip-rule: evenodd;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #20808d;
+        stroke-miterlimit: 10;
+        stroke-width: 5.45px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-4" d="M306.09,195.2h49.37c8.91,0,17.04-5.09,20.93-13.1l58.88-121.29h-48.43c-8.86,0-16.94,5.03-20.86,12.97l-59.89,121.42Z"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_51" data-name="未命名的渐变 51" x1="747.79" y1="-20.5" x2="672.73" y2="71.33" gradientTransform="translate(-1199.68 119.38) scale(2.16 1.45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2800d6"/>
+      <stop offset=".23" stop-color="#3537e2"/>
+      <stop offset=".41" stop-color="#3f5eeb"/>
+      <stop offset=".47" stop-color="#426cee"/>
+      <stop offset=".61" stop-color="#4a8cf5"/>
+      <stop offset=".75" stop-color="#50a2fa"/>
+      <stop offset=".88" stop-color="#53b0fd"/>
+      <stop offset="1" stop-color="#55b5ff"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="0" width="256" height="256" rx="50" ry="50"/>
+  <path class="cls-5" d="M176.78,42.72l-48.77,48.82h48.77V42.72Zm-48.78,48.82l-48.78-48.82v48.82h48.78Zm-.11-56V220.46m48.89-80.11l-48.77-48.82v69.99l48.77,48.82v-69.99Zm-97.55,0l48.78-48.82v69.99l-48.78,48.82v-69.99Zm-20.93-48.82v69.71h20.93v-20.89l48.78-48.82H58.29Zm69.71,0l48.77,48.82v20.89h20.93V91.53h-69.71Z"/>
+  <g class="cls-3">
+    <rect class="cls-1" x="258.81" y="86.26" width="149.44" height="139.77" transform="translate(-34.72 159.76) rotate(-25.65)"/>
+  </g>
+</svg>

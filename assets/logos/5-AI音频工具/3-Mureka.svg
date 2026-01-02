@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .16em;
+      }
+
+      .cls-2 {
+        letter-spacing: .15em;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_13);
+      }
+
+      .cls-4 {
+        letter-spacing: .16em;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-family: 'AlibabaPuHuiTi_3_45_Light', 'Alibaba PuHuiTi 3.0';
+        font-size: 24px;
+      }
+
+      .cls-6 {
+        fill: url(#_未命名的渐变_7);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_13" data-name="未命名的渐变 13" x1="14.64" y1="14.64" x2="241.36" y2="241.36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a2d8a"/>
+      <stop offset=".2" stop-color="#34277c"/>
+      <stop offset=".57" stop-color="#241758"/>
+      <stop offset="1" stop-color="#100328"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_7" data-name="未命名的渐变 7" x1="34.02" y1="110.34" x2="221.98" y2="110.34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#74c6fc"/>
+      <stop offset=".5" stop-color="#959ffd"/>
+      <stop offset="1" stop-color="#c870fc"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-3" x="0" y="0" width="256" height="256" rx="50" ry="50"/>
+  <g>
+    <polygon class="cls-6" points="34.02 127.84 83.05 71 119.04 106.98 151.61 71 187.53 106.92 211.07 83.38 221.98 94.29 169.07 149.69 134.52 115.14 102.31 149.69 66.6 113.98 45.22 137.88 34.02 127.84"/>
+    <text class="cls-5" transform="translate(68.63 183.23) scale(1.05 1)"><tspan class="cls-1" x="0" y="0">MURE</tspan><tspan class="cls-2" x="78.17" y="0">K</tspan><tspan class="cls-4" x="95.83" y="0">A</tspan></text>
+  </g>
+</svg>

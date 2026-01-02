@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>汕职院AI设计智库 | Stpt AI Design Toolbox</title>
+    <meta name="description" content="AI设计资源一站导航，创意落地全程陪伴">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- 背景动画 -->
+    <div class="bg-animation">
+        <div class="gradient-orb orb-1"></div>
+        <div class="gradient-orb orb-2"></div>
+        <div class="gradient-orb orb-3"></div>
+    </div>
+
+    <!-- 顶部导航 -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo">
+                <div class="logo-icon">
+                    <img src="assets/site-logo.svg" alt="汕职院AI设计智库">
+                </div>
+                <div class="logo-text">
+                    <span class="logo-title">汕职院AI设计智库</span>
+                    <span class="logo-subtitle">Stpt AI Design Toolbox</span>
+                </div>
+            </div>
+            <nav class="nav">
+                <a href="#tools" class="nav-link active">AI工具集</a>
+                <a href="#cases" class="nav-link">案例研究</a>
+                <a href="#studios" class="nav-link">高校工作室</a>
+            </nav>
+            <div class="header-actions">
+                <button class="search-btn" id="searchBtn">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"/>
+                        <path d="m21 21-4.35-4.35"/>
+                    </svg>
+                </button>
+                <button class="theme-btn" id="themeBtn">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="5"/>
+                        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+                    </svg>
+                </button>
+            </div>
+            <button class="mobile-menu-btn" id="mobileMenuBtn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- 搜索弹窗 -->
+    <div class="search-modal" id="searchModal">
+        <div class="search-modal-content">
+            <div class="search-input-wrapper">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"/>
+                    <path d="m21 21-4.35-4.35"/>
+                </svg>
+                <input type="text" id="searchInput" placeholder="搜索AI工具..." autocomplete="off">
+                <kbd>ESC</kbd>
+            </div>
+            <div class="search-results" id="searchResults"></div>
+        </div>
+    </div>
+
+    <!-- 移动端侧边栏 -->
+    <div class="mobile-sidebar" id="mobileSidebar">
+        <div class="mobile-sidebar-header">
+            <span>导航菜单</span>
+            <button class="close-sidebar" id="closeSidebar">&times;</button>
+        </div>
+        <nav class="mobile-nav">
+            <a href="#tools" class="mobile-nav-link active">AI工具集</a>
+            <a href="#cases" class="mobile-nav-link">案例研究</a>
+            <a href="#studios" class="mobile-nav-link">高校工作室</a>
+        </nav>
+        <div class="mobile-categories" id="mobileCategoryList"></div>
+    </div>
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <!-- 主要内容区 -->
+    <main class="main">
+        <!-- Hero区域 -->
+        <section class="hero">
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    <span class="title-line">AI设计资源一站导航</span>&nbsp;&nbsp;&nbsp;
+                    <span class="title-line gradient-text">创意落地全程陪伴</span>
+                </h1>
+                <p class="hero-desc">汇集国内外优质AI设计工具，助力设计师提升创作效率</p>
+            </div>
+        </section>
+
+        <!-- AI工具集区域 -->
+        <section class="tools-section" id="tools">
+            <!-- 分类导航 -->
+            <div class="category-nav">
+                <div class="category-nav-inner" id="categoryNav">
+                    <!-- 动态生成分类标签 -->
+                </div>
+            </div>
+
+            <!-- 工具卡片网格 -->
+            <div class="tools-container">
+                <div class="tools-grid" id="toolsGrid">
+                    <!-- 动态生成工具卡片 -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <div class="footer-logo">
+                    <img src="assets/site-logo.svg" alt="汕职院AI设计智库">
+                    <div class="footer-logo-text">
+                        <span class="footer-title">汕职院AI设计智库</span>
+                        <span class="footer-subtitle">汕头职业技术学院 · 艺术设计学院</span>
+                    </div>
+                </div>
+                <div class="footer-links">
+                    <span class="footer-links-title">友情链接：</span>
+                    <a href="https://www.stpt.edu.cn/" target="_blank" rel="noopener noreferrer">汕头职业技术学院</a>
+                    <a href="https://www.stpt.edu.cn/yinggewu/" target="_blank" rel="noopener noreferrer">汕头市英歌数字艺术馆</a>
+                    <a href="https://yssj.gdqy.edu.cn/" target="_blank" rel="noopener noreferrer">广东轻工职业技术学院艺术设计学院</a>
+                </div>
+                <div class="footer-copyright">
+                    <p>&copy; 2025 Stpt AI Design Toolbox. All rights reserved.</p>
+                </div>
+            </div>
+            <div class="footer-right">
+                <div class="footer-qrcodes">
+                    <div class="qrcode-item">
+                        <img src="assets/qrcodes/1-汕职院艺术设计学院-二维码.png" alt="汕职院艺术设计学院">
+                        <span>汕职院艺术设计学院</span>
+                    </div>
+                    <div class="qrcode-item">
+                        <img src="assets/qrcodes/2-汕头职业技术学院-二维码.png" alt="汕头职业技术学院">
+                        <span>汕头职业技术学院</span>
+                    </div>
+                    <div class="qrcode-item">
+                        <img src="assets/qrcodes/3-汕头职院学工在线-二维码.png" alt="汕头职院学工在线">
+                        <span>汕头职院学工在线</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 回到顶部 -->
+    <button class="back-to-top" id="backToTop">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 15l-6-6-6 6"/>
+        </svg>
+    </button>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
+

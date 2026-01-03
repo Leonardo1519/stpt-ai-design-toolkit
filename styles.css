@@ -222,17 +222,17 @@ body {
     font-size: 18px;
     font-weight: 700;
     color: var(--text-primary);
-    letter-spacing: 0.5px;
+    letter-spacing: 0.8px;
     line-height: 1.2;
 }
 
 .logo-subtitle {
     font-family: 'Orbitron', sans-serif;
-    font-size: 11px;
+    font-size: 9.4px;
     font-weight: 500;
     color: var(--text-muted);
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     line-height: 1.2;
     margin-top: 2px;
 }

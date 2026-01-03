@@ -416,6 +416,7 @@ body {
     cursor: pointer;
     transition: var(--transition-fast);
     border-bottom: 1px solid var(--border-color);
+    text-decoration: none;
 }
 
 .search-result-item:last-child {
@@ -429,10 +430,10 @@ body {
 .search-result-item img {
     width: 40px;
     height: 40px;
-    border-radius: var(--radius-sm);
+    border-radius: 0;
     object-fit: contain;
-    background: var(--bg-tertiary);
-    padding: 6px;
+    background: transparent;
+    padding: 0;
 }
 
 .search-result-info h4 {
@@ -440,11 +441,26 @@ body {
     font-weight: 500;
     color: var(--text-primary);
     margin-bottom: 2px;
+    text-decoration: none;
+}
+
+.search-result-info h4 mark {
+    background: transparent;
+    color: #a78bfa;
+    text-decoration: none;
+    font-size: inherit;
+    font-weight: inherit;
 }
 
 .search-result-info p {
     font-size: 13px;
     color: var(--text-muted);
+}
+
+.search-result-info p mark {
+    background: transparent;
+    color: #a78bfa;
+    text-decoration: none;
 }
 
 .search-no-result {

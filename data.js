@@ -1,4 +1,133 @@
 // 汕职院AI设计智库 - 数据文件
+
+// 高校AI设计工作室数据
+const STUDIOS_DATA = {
+    sectionTitle: '高校AI设计工作室',
+    sectionSubtitle: '国内外高校AI设计工作室',
+    studios: [
+        {
+            id: 'tongji-dai',
+            name: '同济大学设计创意学院',
+            url: 'https://www.sheji.ai/',
+            description: '同济大学设计创意学院设计人工智能实验室（D&AI Lab）是国内领先的AI设计研究机构，专注于设计智能、人机交互、数据可视化等前沿领域。实验室致力于探索AI技术在设计领域的创新应用，推动设计教育与产业的数字化转型。',
+            cover: 'assets/studios/同济大学设计创意学院.jpg',
+            tags: ['设计人工智能', '人机交互', '数据可视化']
+        },
+        {
+            id: 'cafa-future-media',
+            name: '中央美术学院 · 未来媒体工作室',
+            url: 'https://www.cafa.edu.cn/',
+            description: '中央美术学院未来媒体工作室聚焦于数字艺术与新媒体技术的交叉研究，探索AI、VR/AR、交互装置等前沿技术在艺术创作中的应用。工作室培养具有创新思维和技术能力的复合型艺术人才，推动中国数字艺术的发展。',
+            cover: 'assets/studios/中央美术学院-未来媒体工作室.jpg',
+            tags: ['数字艺术', '新媒体', '交互装置']
+        },
+        {
+            id: 'aidlab',
+            name: '香港理工大学 & 英国皇家艺术学院 · AiDLab实验室',
+            url: 'https://www.aidlab.hk/',
+            description: 'AiDLab（人工智能设计实验室）是香港理工大学与英国皇家艺术学院联合创办的研究机构，专注于AI驱动的设计创新。实验室汇聚全球顶尖设计与技术人才，开展跨学科研究，探索AI在产品设计、服务设计、社会创新等领域的应用。',
+            cover: 'assets/studios/香港理工大学 & 英国皇家艺术学院-AiDLab实验室.jpg',
+            tags: ['AI设计', '跨学科研究', '设计创新']
+        },
+        {
+            id: 'mit-media-lab',
+            name: '麻省理工学院 · Media Lab实验室',
+            url: 'https://www.media.mit.edu/',
+            description: 'MIT Media Lab是全球最具影响力的跨学科研究实验室之一，汇集艺术、科学、设计与技术。实验室在人机交互、可穿戴计算、AI创意工具等领域开创了众多突破性研究，培养了大量科技与设计领域的领军人才。',
+            cover: 'assets/studios/麻省理工学院-MediaLab实验室.jpg',
+            tags: ['跨学科研究', '人机交互', '创意技术']
+        },
+        {
+            id: 'kcl-creative-ai',
+            name: '伦敦国王学院 · Creative AI Lab',
+            url: 'https://www.kcl.ac.uk/research/creative-ai',
+            description: 'Creative AI Lab是伦敦国王学院的前沿研究实验室，专注于人工智能技术在创意产业中的应用。实验室研究涵盖AI艺术生成、音乐创作、自然语言处理等领域，推动人工智能技术与人文艺术的深度融合。',
+            cover: 'assets/studios/伦敦国王学院 -Creative AI Lab.jpg',
+            tags: ['创意AI', 'AI艺术', '人文技术']
+        },
+        {
+            id: 'hfg-ai-design',
+            name: '德国施瓦本格明德设计学院 · AI+Design Lab',
+            url: 'https://www.hfg-gmuend.de/',
+            description: 'AI+Design Lab是德国施瓦本格明德设计学院（HfG）的创新研究实验室，专注于人工智能与设计的交叉研究。实验室探索AI在工业设计、交互设计、可持续设计等领域的应用，培养具有批判性思维的设计研究者。',
+            cover: 'assets/studios/德国施瓦本格明德设计学院-AI+Design Lab.jpg',
+            tags: ['工业设计', '交互设计', '设计研究']
+        }
+    ]
+};
+
+// 案例研究数据
+const CASE_STUDIES_DATA = {
+    sectionTitle: '案例研究',
+    sectionSubtitle: 'AI技术在设计行业的应用',
+    cases: [
+        {
+            id: 'aliyun-asian-games',
+            title: '阿里云智能设计用"数字水墨"献礼杭州亚运会',
+            description: '阿里云基于AI技术打造"数字水墨"视觉系统，以动态水墨风格演绎杭州亚运会主题。系统通过算法模拟水墨渲染效果，生成开幕式视觉、海报及宣传片等数字内容，将传统水墨艺术与现代体育精神融合，展现中国文化与科技创新的结合。',
+            url: 'https://www.digitaling.com/articles/981875.html',
+            cover: 'assets/cases/case-aliyun-asian-games.jpg',
+            tags: ['阿里云', '视觉设计', '文化创意']
+        },
+        {
+            id: 'luban-double11',
+            title: '鹿班AI赋能双十一电商营销设计',
+            description: '阿里巴巴旗下AI设计平台"鹿班"在双十一期间自动生成海量营销海报与广告素材。系统可根据商品信息、品牌风格实时生成个性化设计，极大提升设计效率与一致性，助力商家快速响应营销需求，实现智能化、规模化设计输出。',
+            url: 'https://www.uisdc.com/responsible-for-the-design-of-luban',
+            cover: 'assets/cases/case-luban-double11.jpg',
+            tags: ['阿里巴巴', '电商设计', '智能生成']
+        },
+        {
+            id: 'alimama-font',
+            title: '阿里妈妈AI智造字，全新可变字体再发布',
+            description: '阿里妈妈发布基于AI的可变字体系统，支持字形、字重、字宽等多维度动态调整。通过深度学习生成字形结构，实现字体在多种场景下的自适应排版与视觉优化，提升品牌文字设计的灵活性与表现力。',
+            url: 'https://developer.aliyun.com/article/1248344',
+            cover: 'assets/cases/case-alimama-font.jpg',
+            tags: ['阿里妈妈', '字体设计', '深度学习']
+        },
+        {
+            id: 'dunhuang-restore',
+            title: '敦煌研究院 × 腾讯AI Lab：敦煌壁画智能修复',
+            description: '腾讯AI Lab与敦煌研究院合作，利用AI图像修复技术对敦煌壁画进行数字化修复与保护。系统通过学习壁画纹理与色彩规律，自动填补缺损部分，还原壁画原貌，为文化遗产的数字化存档与研究和非遗文化传承提供技术支持。项目成果: 数字敦煌线上博物馆。',
+            url: 'https://baijiahao.baidu.com/s?id=1695108068425546909&wfr=spider&for=pc',
+            cover: 'assets/cases/case-dunhuang.jpg',
+            tags: ['腾讯AI Lab', '文化遗产', '图像修复']
+        },
+        {
+            id: 'sanxingdui',
+            title: '三星堆遗址 × 腾讯数字文化实验室: 三星堆考古与文物数字化保护',
+            description: '腾讯数字文化实验室与三星堆合作，运用3D扫描、AI重建等技术对出土文物进行高精度数字化建模。项目构建了文物数字档案与虚拟展示系统，助力考古研究、公众教育与文化遗产的可持续保护。',
+            url: 'https://www.tencent.com/index.php/zh-cn/articles/2201763.html',
+            cover: 'assets/cases/case-sanxingdui.jpg',
+            tags: ['腾讯', '3D建模', '文物保护']
+        },
+        {
+            id: 'nike-3d-shoes',
+            title: '探索未来 | 耐克推出全新的3D打印AI概念运动鞋',
+            description: '耐克发布基于AI与3D打印技术的概念运动鞋，通过算法优化鞋履结构，实现轻量化与个性化支撑。AI辅助设计流程可根据运动数据生成适配不同脚型与运动模式的鞋底与鞋面结构，探索未来运动装备的智能制造路径。',
+            url: 'https://baijiahao.baidu.com/s?id=1796746427995731544&wfr=spider&for=pc',
+            cover: 'assets/cases/case-nike-3d-shoes.jpg',
+            tags: ['耐克', '3D打印', '产品设计']
+        },
+        {
+            id: 'jinshan-painting',
+            title: '同济大学设计人工智能实验室 | 金山农民画：AI赋能手工艺保护',
+            description: '该项目是科技赋能文化遗产保护的典型。实验室利用Tezign.EYE机器学习引擎，对金山农民画的色彩、构图、笔触等艺术风格进行解构与学习，构建其数字风格模型。公众只需绘制简单线条，AI即可实时生成一幅具有正宗金山农民画风格的艺术作品。该项目将高门槛的民间艺术创作，转化为低门槛、高互动性的公共文化体验，为非遗的数字化保存、传播与创新性发展提供了前沿技术路径。',
+            url: 'https://www.sheji.ai/research/6191c8a824a243000d5d50c8',
+            cover: 'assets/cases/case-jinshan-painting.jpg',
+            tags: ['同济大学', '非遗保护', '风格迁移']
+        },
+        {
+            id: 'designnet',
+            title: '同济大学设计人工智能实验室 | DesignNet平面设计数据集',
+            description: '同济大学设计人工智能实验室构建了DesignNet数据集，收录大量平面设计样本及其设计元素标注。该数据集支持AI在排版、配色、构图等方面的学习与研究，为设计智能化工具的开发提供基础资源与算法训练支持。',
+            url: 'https://www.sheji.ai/research/6191bea1e0ffc6001d3dcf74',
+            cover: 'assets/cases/case-designnet.jpg',
+            tags: ['同济大学', '数据集', '设计研究']
+        }
+    ]
+};
+
 // AI工具数据
 
 const AI_TOOLS_DATA = {

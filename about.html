@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me | 汕职院AI设计智库</title>
+    <meta name="description" content="关于汕职院AI设计智库项目">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- 背景动画 -->
+    <div class="bg-animation">
+        <div class="gradient-orb orb-1"></div>
+        <div class="gradient-orb orb-2"></div>
+        <div class="gradient-orb orb-3"></div>
+    </div>
+
+    <!-- 顶部导航 -->
+    <header class="header">
+        <div class="header-container">
+            <a href="index.html" class="logo">
+                <div class="logo-icon">
+                    <img src="assets/site-logo.svg" alt="汕职院AI设计智库">
+                </div>
+                <div class="logo-text">
+                    <span class="logo-title">汕职院AI设计智库</span>
+                    <span class="logo-subtitle">Stpt AI Design Toolbox</span>
+                </div>
+            </a>
+            <nav class="nav">
+                <a href="index.html" class="nav-link">AI工具集</a>
+                <a href="cases.html" class="nav-link">AI设计案例研究</a>
+                <a href="studios.html" class="nav-link">高校AI设计工作室</a>
+                <a href="about.html" class="nav-link active">About Me</a>
+            </nav>
+            <div class="header-actions">
+                <button class="theme-btn" id="themeBtn">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="5"/>
+                        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+                    </svg>
+                </button>
+            </div>
+            <button class="mobile-menu-btn" id="mobileMenuBtn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- 移动端侧边栏 -->
+    <div class="mobile-sidebar" id="mobileSidebar">
+        <div class="mobile-sidebar-header">
+            <span>导航菜单</span>
+            <button class="close-sidebar" id="closeSidebar">&times;</button>
+        </div>
+        <nav class="mobile-nav">
+            <a href="index.html" class="mobile-nav-link">AI工具集</a>
+            <a href="cases.html" class="mobile-nav-link">AI设计案例研究</a>
+            <a href="studios.html" class="mobile-nav-link">高校AI设计工作室</a>
+            <a href="about.html" class="mobile-nav-link active">About Me</a>
+        </nav>
+    </div>
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <!-- 主要内容区 -->
+    <main class="main">
+        <!-- About内容区域 -->
+        <section class="about-page-section">
+            <div class="about-page-container">
+                <!-- 头部Hero区域 -->
+                <div class="about-page-hero">
+                    <div class="about-hero-logo">
+                        <img src="assets/site-logo.svg" alt="汕职院AI设计智库">
+                    </div>
+                    <div class="about-hero-text">
+                        <h1 class="about-hero-title">汕职院AI设计智库</h1>
+                        <p class="about-hero-subtitle">STPT AI DESIGN TOOLBOX</p>
+                        <p class="about-hero-slogan">AI设计资源一站导航，创意落地全程陪伴</p>
+                    </div>
+                </div>
+
+                <!-- 正文内容 -->
+                <div class="about-page-content">
+                    <h2>📖 项目发起初衷</h2>
+                    <p>在人工智能技术飞速发展的今天，AI正在深刻改变设计行业的工作方式与创作模式。作为设计教育工作者，我们深刻意识到：</p>
+                    <ul>
+                        <li><strong>信息碎片化问题</strong>：优质的AI设计工具散布于互联网各处，设计师和学生往往需要花费大量时间搜索、筛选和学习</li>
+                        <li><strong>技术门槛挑战</strong>：AI工具种类繁多、更新迅速，初学者难以快速找到适合自己的工具和学习路径</li>
+                        <li><strong>教育资源整合需求</strong>：高校设计教育需要与时俱进，为学生提供系统化的AI设计学习资源</li>
+                        <li><strong>文化传承使命</strong>：AI技术为中国传统文化和非物质文化遗产的保护与传承提供了全新可能</li>
+                    </ul>
+                    <p>基于以上思考，<strong>汕头职业技术学院艺术设计学院</strong>发起并建设了本项目——<strong>汕职院AI设计智库</strong>。我们希望通过这个平台：</p>
+                    <ol>
+                        <li>为设计师和设计专业学生提供一站式AI工具导航服务</li>
+                        <li>分享AI技术在设计领域的前沿应用案例</li>
+                        <li>展示国内外高校在AI设计研究方面的探索成果</li>
+                        <li>探索AI技术赋能传统文化传承的创新路径</li>
+                    </ol>
+
+                    <h2>📚 项目内容</h2>
+                    <h3>🔧 AI工具集（首页）</h3>
+                    <p>汇集国内外优质AI设计工具，涵盖10大类别，共计100+款精选工具：热门推荐、AI对话聊天与办公、AI图像生成、AI视频动画和数字人、AI音频工具、AI界面设计与前端、AI编程开发、AI多功能集成平台、AI资源社区、AI学习网站。</p>
+
+                    <h3>📊 AI设计案例研究</h3>
+                    <p>精选AI技术在设计行业的标杆应用案例，包括：阿里云智能设计"数字水墨"献礼杭州亚运会、鹿班AI赋能双十一电商营销设计、阿里妈妈AI智造可变字体系统、敦煌研究院×腾讯AI Lab敦煌壁画智能修复、三星堆遗址×腾讯文物数字化保护、耐克AI与3D打印概念运动鞋、同济大学D&AI Lab金山农民画AI风格迁移等。</p>
+
+                    <h3>🏫 高校AI设计工作室</h3>
+                    <p>展示国内外顶尖高校的AI设计研究机构：同济大学设计创意学院设计人工智能实验室、中央美术学院未来媒体工作室、香港理工大学与英国皇家艺术学院AiDLab实验室、麻省理工学院Media Lab实验室、伦敦国王学院Creative AI Lab、德国施瓦本格明德设计学院AI+Design Lab。</p>
+
+                    <h3>✨ 网站特色功能</h3>
+                    <p>🔍 智能搜索快速定位所需AI工具 | 🌓 深色/浅色主题自适应用户偏好 | 📱 响应式设计完美适配PC、平板、手机 | ⚡ 流畅动效现代化视觉体验</p>
+
+                    <h2>🛠️ 技术栈</h2>
+                    <p>本项目采用现代Web开发技术栈构建，注重轻量化、高性能与可维护性。核心技术包括HTML5语义化标签、CSS3现代特性（CSS变量、Flexbox & Grid、动画、媒体查询）、JavaScript ES6+（模块化、DOM操作、事件委托、本地存储）。</p>
+                    <p>开发工具链：<strong>Cursor</strong>（AI辅助编程IDE，集成Claude等大模型）、<strong>Github</strong>（代码托管与版本控制）、<strong>Vercel</strong>（云端自动化部署与全球CDN加速）。</p>
+                    <p>为什么选择纯前端技术？零服务器成本可免费托管、极速加载无后端延迟、数据集中管理易于维护、CDN全球分发高可用性。</p>
+
+                    <h2>🎨 AI重塑设计</h2>
+                    <p>人工智能正在从根本上重塑设计行业的工作范式与创作边界。</p>
+                    <p><strong>创作效率的革命性提升</strong>：Midjourney、即梦等工具可在秒级时间内生成高质量设计方案；批量图片处理、智能抠图、背景生成等任务实现自动化；AI辅助设计工具支持多人实时协作。案例：阿里巴巴"鹿班"AI在双十一期间单日可生成数亿张个性化广告图。</p>
+                    <p><strong>创意边界的持续拓展</strong>：文本、图像、视频、音频的无缝转换与融合；AI可快速生成多种风格方案激发设计灵感；将抽象创意快速转化为可视化原型。案例：耐克利用AI与3D打印技术设计概念运动鞋，通过算法优化鞋履结构。</p>
+                    <p><strong>设计民主化进程加速</strong>：非专业人士也能通过AI工具生成专业级设计；消费者可参与产品设计过程；AI辅助教学使设计学习更加高效。</p>
+                    <p><strong>人机协作的新范式</strong>：设计师从执行者转变为指挥者，更多扮演创意策划与AI指导的角色；需要掌握AI工具使用、提示词工程等新技能；AI成为设计师的创意伙伴。</p>
+                    <p><strong>设计行业的未来趋势</strong>：智能化——AI将深度融入设计全流程；个性化——大规模个性化定制成为可能；实时化——设计响应速度大幅提升；数据驱动——设计决策更加科学化。</p>
+
+                    <h2>🏛️ AI赋能非遗</h2>
+                    <p>人工智能技术为中国非物质文化遗产的保护、传承与创新发展开辟了全新路径。AI与非遗的结合，不仅是技术与文化的碰撞，更是传统与现代的对话。</p>
+                    <p><strong>数字化保护与存档</strong>：3D扫描与AI重建技术可精确还原文物细节；AI图像修复技术可还原受损文化遗产的原貌；数字化档案确保非遗资料的永久保存。案例：腾讯AI Lab与敦煌研究院合作，利用AI图像修复技术对敦煌壁画进行数字化修复，项目成果"数字敦煌"线上博物馆让全球用户都能欣赏敦煌艺术。腾讯数字文化实验室与三星堆合作，运用3D扫描、AI重建等技术对出土文物进行高精度数字化建模。</p>
+                    <p><strong>传承方式的创新</strong>：AI可分析非遗技艺的关键要素辅助教学；VR/AR技术结合AI让用户沉浸式体验非遗文化；降低非遗创作门槛让公众参与传承。案例：同济大学设计人工智能实验室的"金山农民画"项目，利用AI对金山农民画的色彩、构图、笔触等艺术风格进行解构与学习，公众只需绘制简单线条，AI即可实时生成一幅具有正宗金山农民画风格的艺术作品。</p>
+                    <p><strong>创新性发展</strong>：将传统艺术风格应用于现代设计；非遗元素与现代产品、数字内容的创新结合；AI辅助非遗文化IP的系统化开发。案例：阿里云基于AI技术打造"数字水墨"视觉系统，以动态水墨风格演绎杭州亚运会主题，将传统水墨艺术与现代体育精神融合。</p>
+                    <p><strong>传播与推广</strong>：AI翻译让非遗文化跨越语言障碍；智能推荐精准触达对非遗感兴趣的受众；AI辅助创作非遗相关的宣传内容。</p>
+                    <p><strong>非遗保护的未来展望</strong>：建立非遗数字基因库系统性保存非遗的数字化信息；AI辅助传承人培养利用AI技术辅助非遗技艺的传承教学；将非遗美学融入现代产品设计；借助AI技术促进中国非遗的国际传播。</p>
+
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <div class="footer-logo">
+                    <img src="assets/site-logo.svg" alt="汕职院AI设计智库">
+                    <div class="footer-logo-text">
+                        <span class="footer-title">汕职院AI设计智库</span>
+                        <span class="footer-subtitle">汕头职业技术学院 · 艺术设计学院</span>
+                    </div>
+                </div>
+                <div class="footer-links">
+                    <span class="footer-links-title">友情链接：</span>
+                    <a href="https://www.stpt.edu.cn/" target="_blank" rel="noopener noreferrer">汕头职业技术学院</a>
+                    <a href="https://www.stpt.edu.cn/yinggewu/" target="_blank" rel="noopener noreferrer">汕头市英歌数字艺术馆</a>
+                    <a href="https://yssj.gdqy.edu.cn/" target="_blank" rel="noopener noreferrer">广东轻工职业技术学院艺术设计学院</a>
+                </div>
+                <div class="footer-copyright">
+                    <p>&copy; 2025 Stpt AI Design Toolbox. All rights reserved.</p>
+                </div>
+            </div>
+            <div class="footer-right">
+                <div class="footer-qrcodes">
+                    <div class="qrcode-item">
+                        <img src="assets/qrcodes/1-汕职院艺术设计学院-二维码.png" alt="汕职院艺术设计学院">
+                        <span>汕职院艺术设计学院</span>
+                    </div>
+                    <div class="qrcode-item">
+                        <img src="assets/qrcodes/2-汕头职业技术学院-二维码.png" alt="汕头职业技术学院">
+                        <span>汕头职业技术学院</span>
+                    </div>
+                    <div class="qrcode-item">
+                        <img src="assets/qrcodes/3-汕头职院学工在线-二维码.png" alt="汕头职院学工在线">
+                        <span>汕头职院学工在线</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 回到顶部 -->
+    <button class="back-to-top" id="backToTop">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 15l-6-6-6 6"/>
+        </svg>
+    </button>
+
+    <script src="about.js"></script>
+</body>
+</html>

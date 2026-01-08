@@ -102,9 +102,19 @@
 
     // 主题切换
     function initTheme() {
-        const savedTheme = localStorage.getItem('theme') || 'dark';
-        document.documentElement.dataset.theme = savedTheme;
-        updateThemeIcon(savedTheme);
+        let theme = 'dark';
+        try {
+            const savedTheme = localStorage.getItem('theme');
+            const prefersDark = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)').matches : true;
+            theme = savedTheme || document.documentElement.dataset.theme || (prefersDark ? 'dark' : 'light');
+            if (!savedTheme) {
+                localStorage.setItem('theme', theme);
+            }
+        } catch (error) {
+            theme = document.documentElement.dataset.theme || 'dark';
+        }
+        document.documentElement.dataset.theme = theme;
+        updateThemeIcon(theme);
     }
 
     function toggleTheme() {

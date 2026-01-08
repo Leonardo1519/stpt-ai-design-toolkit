@@ -50,7 +50,7 @@ const STUDIOS_DATA = {
             name: '德国施瓦本格明德设计学院 · AI+Design Lab',
             url: 'https://www.hfg-gmuend.de/',
             description: 'AI+Design Lab是德国施瓦本格明德设计学院（HfG）的创新研究实验室，专注于人工智能与设计的交叉研究。实验室探索AI在工业设计、交互设计、可持续设计等领域的应用，培养具有批判性思维的设计研究者。',
-            cover: 'assets/studios/德国施瓦本格明德设计学院-AI+Design Lab.jpg',
+            cover: 'assets/studios/德国施瓦本格明德设计学院-AI-Design-Lab.jpg',
             tags: ['工业设计', '交互设计', '设计研究']
         }
     ]

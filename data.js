@@ -160,7 +160,7 @@ const AI_TOOLS_DATA = {
             url: 'https://jimeng.jianying.com/ai-tool/home',
             description: '字节跳动旗下的AIGC视频与图像生成平台',
             category: 'hot',
-            logo: 'assets/logos/2-Jimeng.svg'
+            logo: 'assets/logos/Jimeng-logo.png'
         },
         {
             id: 'netease-ai-studio',
@@ -388,7 +388,7 @@ const AI_TOOLS_DATA = {
             url: 'https://jimeng.jianying.com/ai-tool/home',
             description: '字节跳动旗下的AIGC视频与图像生成平台',
             category: 'image',
-            logo: 'assets/logos/即梦-logo.png'
+            logo: 'assets/logos/Jimeng-logo.png'
         },
         {
             id: 'wanxiang',
@@ -396,7 +396,7 @@ const AI_TOOLS_DATA = {
             url: 'https://tongyi.aliyun.com/wan/',
             description: '阿里通义AI图像生成工具',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/2-通义万相.svg'
+            logo: 'assets/logos/3-AI Image Generation/2-TongYiWanXiang.svg'
         },
         {
             id: 'dreamstudio',
@@ -420,7 +420,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.youchuan.cn/',
             description: '在线AI绘画创作平台',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/5-悠船.svg'
+            logo: 'assets/logos/3-AI Image Generation/5-Youchuan.svg'
         },
         {
             id: 'netease-sd',
@@ -428,7 +428,7 @@ const AI_TOOLS_DATA = {
             url: 'https://sd.study.163.com/',
             description: '网易云课堂推出的AI作画平台，在线使用Stable Diffusion出图',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/6-网易云课堂 -AI设计工坊.svg'
+            logo: 'assets/logos/3-AI Image Generation/6-Netease-AI Design Studio.svg'
         },
         {
             id: 'comfyui',
@@ -444,7 +444,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.canva.cn/',
             description: '集成多种设计功能的AI的在线设计工具',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/8-Canvas可画.svg'
+            logo: 'assets/logos/3-AI Image Generation/8-Canvas.svg'
         },
         {
             id: 'liblib',
@@ -468,7 +468,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.gaoding.com/',
             description: '电商营销设计AIGC在线设计工具',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/11-稿定AI.svg'
+            logo: 'assets/logos/3-AI Image Generation/11-GaodingAI.svg'
         },
         {
             id: 'designkit',
@@ -476,7 +476,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.designkit.cn/',
             description: '美图推出的AI设计工具',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/12-美图设计室.svg'
+            logo: 'assets/logos/3-AI Image Generation/12-Meitu-DesignKit.svg'
         },
         {
             id: 'yunxiu',
@@ -484,7 +484,7 @@ const AI_TOOLS_DATA = {
             url: 'https://yunxiu.meitu.com/',
             description: '美图推出专业级AI人像精修工具，可用于商业摄影后期处理',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/13-美图云修.svg'
+            logo: 'assets/logos/3-AI Image Generation/13-Meitu-Yunxiu.svg'
         },
         {
             id: 'wanxiangyingzao',
@@ -492,7 +492,7 @@ const AI_TOOLS_DATA = {
             url: 'https://agi.taobao.com/',
             description: '淘宝推出的电商营销AI设计平台',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/14-万相营造.svg'
+            logo: 'assets/logos/3-AI Image Generation/14-WanXiangYingZao.svg'
         },
         {
             id: 'piccopilot',
@@ -508,7 +508,7 @@ const AI_TOOLS_DATA = {
             url: 'https://taishan.qq.com/brand/',
             description: '腾讯云智能图像创作平台',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/16-腾讯云智绘.svg'
+            logo: 'assets/logos/3-AI Image Generation/16-Tencent Cloud Drawing.svg'
         },
         {
             id: 'ddesign',
@@ -516,7 +516,7 @@ const AI_TOOLS_DATA = {
             url: 'https://d.design/',
             description: 'AI设计资源与电商模板库',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/17-D.DESIGN堆友.svg'
+            logo: 'assets/logos/3-AI Image Generation/17-D.DESIGN.svg'
         },
         {
             id: 'bigjpg',
@@ -540,7 +540,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.ai.zitijia.com/',
             description: 'AI生成与设计字体工具',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/20-字体家AI神笔.svg'
+            logo: 'assets/logos/3-AI Image Generation/20-TypeAI.svg'
         },
         {
             id: 'yanque',
@@ -548,7 +548,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.yanqueai.com/',
             description: '智能logo设计和营销视频制作工具。可生成logo的静态和动态图像、样机效果图和完整VI方案',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/21-燕雀光年.svg'
+            logo: 'assets/logos/3-AI Image Generation/21-YanqueAI.svg'
         },
         {
             id: 'logomaker',
@@ -556,7 +556,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.logomaker.com.cn/',
             description: 'AI辅助Logo设计和VI效果图设计平台',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/22-标智客.svg'
+            logo: 'assets/logos/3-AI Image Generation/22-LogoMaker.svg'
         },
         {
             id: 'logosc',
@@ -564,7 +564,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.logosc.cn/',
             description: '智能Logo设计与VI视觉系统生成工具',
             category: 'image',
-            logo: 'assets/logos/标小智-logo.png'
+            logo: 'assets/logos/3-AI Image Generation/23-logosc-logo.png'
         },
         {
             id: 'looka',
@@ -580,7 +580,7 @@ const AI_TOOLS_DATA = {
             url: 'https://3d.hunyuan.tencent.com/',
             description: '腾讯3D内容AI创作平台，支持文本和图像输入生成高质量3D模型',
             category: 'image',
-            logo: 'assets/logos/3-AI Image Generation/25-腾讯混元3D.svg'
+            logo: 'assets/logos/3-AI Image Generation/25-TencentHunyuan3D.svg'
         },
         {
             id: 'meshy',

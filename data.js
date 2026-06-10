@@ -152,7 +152,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.capcut.cn/',
             description: '字节跳动旗下的智能视频剪辑工具',
             category: 'hot',
-            logo: 'assets/logos/1-Popular Recommendations/1-剪映.svg'
+            logo: 'assets/logos/1-Popular Recommendations/1-Capcut.svg'
         },
         {
             id: 'jimeng',
@@ -160,7 +160,7 @@ const AI_TOOLS_DATA = {
             url: 'https://jimeng.jianying.com/ai-tool/home',
             description: '字节跳动旗下的AIGC视频与图像生成平台',
             category: 'hot',
-            logo: 'assets/logos/即梦-logo.png'
+            logo: 'assets/logos/2-Jimeng.svg'
         },
         {
             id: 'netease-ai-studio',
@@ -168,7 +168,7 @@ const AI_TOOLS_DATA = {
             url: 'https://sd.study.163.com/',
             description: '网易云课堂推出的AI作画平台，在线使用Stable Diffusion出图',
             category: 'hot',
-            logo: 'assets/logos/1-Popular Recommendations/3-网易云课堂 -AI设计工坊.svg'
+            logo: 'assets/logos/1-Popular Recommendations/3-Netease-AI Design Studio.svg'
         },
         {
             id: 'uisdc',
@@ -176,7 +176,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.uisdc.com/',
             description: 'AIGC设计师学习与交流平台',
             category: 'hot',
-            logo: 'assets/logos/1-Popular Recommendations/4-优设网学习社区.svg'
+            logo: 'assets/logos/1-Popular Recommendations/4-UISDC.svg'
         },
         {
             id: 'deepseek-hot',
@@ -192,7 +192,7 @@ const AI_TOOLS_DATA = {
             url: 'https://yuanbao.tencent.com/',
             description: '腾讯推出的基于deepseek模型的AI智能助手',
             category: 'hot',
-            logo: 'assets/logos/1-Popular Recommendations/6-腾讯元宝.svg'
+            logo: 'assets/logos/1-Popular Recommendations/6-Tencent Yuanbao.svg'
         },
         {
             id: 'doubao-hot',
@@ -200,7 +200,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.doubao.com',
             description: '字节跳动推出的AI对话助手',
             category: 'hot',
-            logo: 'assets/logos/1-Popular Recommendations/7-豆包.svg'
+            logo: 'assets/logos/1-Popular Recommendations/7-Doubao.svg'
         },
         {
             id: 'chatgpt-hot',
@@ -232,7 +232,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.siliconflow.cn/',
             description: '国产AI模型托管与服务平台',
             category: 'hot',
-            logo: 'assets/logos/1-Popular Recommendations/11-硅基流动.svg'
+            logo: 'assets/logos/1-Popular Recommendations/11-SiliconFlow.svg'
         },
 
         // ========== AI对话聊天 | 办公 ==========
@@ -266,7 +266,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.doubao.com',
             description: '字节跳动推出的AI对话助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/4-豆包.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/4-Doubao.svg'
         },
         {
             id: 'qianwen',
@@ -274,7 +274,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.qianwen.com/',
             description: '阿里巴巴推出的AI智能对话大模型',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/5-通义千问.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/5-Qwen.svg'
         },
         {
             id: 'yuanbao',
@@ -282,7 +282,7 @@ const AI_TOOLS_DATA = {
             url: 'https://yuanbao.tencent.com/',
             description: '腾讯推出的基于deepseek模型的AI智能助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/6-腾讯元宝.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/6-Tencent Yuanbao.svg'
         },
         {
             id: 'zhipu',
@@ -290,7 +290,7 @@ const AI_TOOLS_DATA = {
             url: 'https://chatglm.cn/main/alltoolsdetail?lang=zh',
             description: '智谱AI推出的生成式AI助手，基于ChatGLM模型',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/7-智谱清言.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/7-Zhipu.svg'
         },
         {
             id: 'xinghuo',
@@ -298,7 +298,7 @@ const AI_TOOLS_DATA = {
             url: 'https://xinghuo.xfyun.cn/desk',
             description: '科大讯飞推出的智能AI对话系统',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/8-讯飞星火.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/8-iFlyTek-Spark.svg'
         },
         {
             id: 'iflyrec',
@@ -306,7 +306,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.iflyrec.com/',
             description: '科大讯飞推出的AI会议转录与办公助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/9-讯飞智慧办公平台.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/9-xf-Online-Office.svg'
         },
         {
             id: 'yiyan',
@@ -314,7 +314,7 @@ const AI_TOOLS_DATA = {
             url: 'https://yiyan.baidu.com/',
             description: '百度推出的智能对话大模型',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/10-文心一言.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/10-ERNIE-Bot.svg'
         },
         {
             id: 'wenku',
@@ -322,7 +322,7 @@ const AI_TOOLS_DATA = {
             url: 'https://wenku.baidu.com',
             description: 'AI辅助文档生成与处理',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/11-百度文库AI.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/11-Baidu-Wenku-AI.svg'
         },
         {
             id: 'lingxi',
@@ -330,7 +330,7 @@ const AI_TOOLS_DATA = {
             url: 'https://lingxi.wps.cn/',
             description: 'WPS推出的AI智能聊天工具',
             category: 'chat',
-            logo: 'assets/logos/2-AI Conversation Chat - Office Work/12-WPS灵犀.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/12-WPS-Lingxi.svg'
         },
         {
             id: 'chatgpt',

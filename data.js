@@ -10,7 +10,7 @@ const STUDIOS_DATA = {
             name: '同济大学设计创意学院',
             url: 'https://www.sheji.ai/',
             description: '同济大学设计创意学院设计人工智能实验室（D&AI Lab）是国内领先的AI设计研究机构，专注于设计智能、人机交互、数据可视化等前沿领域。实验室致力于探索AI技术在设计领域的创新应用，推动设计教育与产业的数字化转型。',
-            cover: 'assets/studios/同济大学设计创意学院.jpg',
+            cover: 'assets/studios/Tongji University Art School.jpg',
             tags: ['设计人工智能', '人机交互', '数据可视化']
         },
         {
@@ -18,7 +18,7 @@ const STUDIOS_DATA = {
             name: '中央美术学院 · 未来媒体工作室',
             url: 'https://www.cafa.edu.cn/',
             description: '中央美术学院未来媒体工作室聚焦于数字艺术与新媒体技术的交叉研究，探索AI、VR/AR、交互装置等前沿技术在艺术创作中的应用。工作室培养具有创新思维和技术能力的复合型艺术人才，推动中国数字艺术的发展。',
-            cover: 'assets/studios/中央美术学院-未来媒体工作室.jpg',
+            cover: 'assets/studios/Central Academy of Fine Arts - Future Media Studio.jpg',
             tags: ['数字艺术', '新媒体', '交互装置']
         },
         {
@@ -26,7 +26,7 @@ const STUDIOS_DATA = {
             name: '香港理工大学 & 英国皇家艺术学院 · AiDLab实验室',
             url: 'https://www.aidlab.hk/',
             description: 'AiDLab（人工智能设计实验室）是香港理工大学与英国皇家艺术学院联合创办的研究机构，专注于AI驱动的设计创新。实验室汇聚全球顶尖设计与技术人才，开展跨学科研究，探索AI在产品设计、服务设计、社会创新等领域的应用。',
-            cover: 'assets/studios/香港理工大学 & 英国皇家艺术学院-AiDLab实验室.jpg',
+            cover: 'assets/studios/HK & RCA AiDLab.jpg',
             tags: ['AI设计', '跨学科研究', '设计创新']
         },
         {
@@ -34,7 +34,7 @@ const STUDIOS_DATA = {
             name: '麻省理工学院 · Media Lab实验室',
             url: 'https://www.media.mit.edu/',
             description: 'MIT Media Lab是全球最具影响力的跨学科研究实验室之一，汇集艺术、科学、设计与技术。实验室在人机交互、可穿戴计算、AI创意工具等领域开创了众多突破性研究，培养了大量科技与设计领域的领军人才。',
-            cover: 'assets/studios/麻省理工学院-MediaLab实验室.jpg',
+            cover: 'assets/studios/MediaLab.jpg',
             tags: ['跨学科研究', '人机交互', '创意技术']
         },
         {
@@ -42,7 +42,7 @@ const STUDIOS_DATA = {
             name: '伦敦国王学院 · Creative AI Lab',
             url: 'https://www.kcl.ac.uk/research/creative-ai',
             description: 'Creative AI Lab是伦敦国王学院的前沿研究实验室，专注于人工智能技术在创意产业中的应用。实验室研究涵盖AI艺术生成、音乐创作、自然语言处理等领域，推动人工智能技术与人文艺术的深度融合。',
-            cover: 'assets/studios/伦敦国王学院 -Creative AI Lab.jpg',
+            cover: 'assets/studios/London-Creative AI Lab.jpg',
             tags: ['创意AI', 'AI艺术', '人文技术']
         },
         {
@@ -50,7 +50,7 @@ const STUDIOS_DATA = {
             name: '德国施瓦本格明德设计学院 · AI+Design Lab',
             url: 'https://www.hfg-gmuend.de/',
             description: 'AI+Design Lab是德国施瓦本格明德设计学院（HfG）的创新研究实验室，专注于人工智能与设计的交叉研究。实验室探索AI在工业设计、交互设计、可持续设计等领域的应用，培养具有批判性思维的设计研究者。',
-            cover: 'assets/studios/德国施瓦本格明德设计学院-AI-Design-Lab.jpg',
+            cover: 'assets/studios/German-AI-Design-Lab.jpg',
             tags: ['工业设计', '交互设计', '设计研究']
         }
     ]

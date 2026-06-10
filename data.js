@@ -152,7 +152,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.capcut.cn/',
             description: '字节跳动旗下的智能视频剪辑工具',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/1-剪映.svg'
+            logo: 'assets/logos/1-Popular Recommendations/1-剪映.svg'
         },
         {
             id: 'jimeng',
@@ -168,7 +168,7 @@ const AI_TOOLS_DATA = {
             url: 'https://sd.study.163.com/',
             description: '网易云课堂推出的AI作画平台，在线使用Stable Diffusion出图',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/3-网易云课堂 -AI设计工坊.svg'
+            logo: 'assets/logos/1-Popular Recommendations/3-网易云课堂 -AI设计工坊.svg'
         },
         {
             id: 'uisdc',
@@ -176,7 +176,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.uisdc.com/',
             description: 'AIGC设计师学习与交流平台',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/4-优设网学习社区.svg'
+            logo: 'assets/logos/1-Popular Recommendations/4-优设网学习社区.svg'
         },
         {
             id: 'deepseek-hot',
@@ -184,7 +184,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.deepseek.com/',
             description: '深度求索推出的高性能免费AI对话助手',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/5-DeepSeek.svg'
+            logo: 'assets/logos/1-Popular Recommendations/5-DeepSeek.svg'
         },
         {
             id: 'yuanbao-hot',
@@ -192,7 +192,7 @@ const AI_TOOLS_DATA = {
             url: 'https://yuanbao.tencent.com/',
             description: '腾讯推出的基于deepseek模型的AI智能助手',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/6-腾讯元宝.svg'
+            logo: 'assets/logos/1-Popular Recommendations/6-腾讯元宝.svg'
         },
         {
             id: 'doubao-hot',
@@ -200,7 +200,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.doubao.com',
             description: '字节跳动推出的AI对话助手',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/7-豆包.svg'
+            logo: 'assets/logos/1-Popular Recommendations/7-豆包.svg'
         },
         {
             id: 'chatgpt-hot',
@@ -208,7 +208,7 @@ const AI_TOOLS_DATA = {
             url: 'https://chat.openai.com/',
             description: 'OpenAI开发的AI对话系统',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/8-ChatGPT.svg'
+            logo: 'assets/logos/1-Popular Recommendations/8-ChatGPT.svg'
         },
         {
             id: 'cursor-hot',
@@ -216,7 +216,7 @@ const AI_TOOLS_DATA = {
             url: 'https://cursor.com/',
             description: '集成多个AI大模型的代码编辑器与编程助手，显著提升开发效率',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/10-Cursor.svg'
+            logo: 'assets/logos/1-Popular Recommendations/10-Cursor.svg'
         },
         {
             id: 'coze-hot',
@@ -224,7 +224,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.coze.cn/',
             description: '字节跳动推出的一站式AI Bot开发平台',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/9-Coze.svg'
+            logo: 'assets/logos/1-Popular Recommendations/9-Coze.svg'
         },
         {
             id: 'siliconflow-hot',
@@ -232,7 +232,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.siliconflow.cn/',
             description: '国产AI模型托管与服务平台',
             category: 'hot',
-            logo: 'assets/logos/1-热门推荐/11-硅基流动.svg'
+            logo: 'assets/logos/1-Popular Recommendations/11-硅基流动.svg'
         },
 
         // ========== AI对话聊天 | 办公 ==========
@@ -242,7 +242,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.deepseek.com/',
             description: '深度求索推出的高性能免费AI对话助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/1-DeepSeek.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/1-DeepSeek.svg'
         },
         {
             id: 'kimi',
@@ -250,7 +250,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.kimi.com/',
             description: '月之暗面推出的AI聊天机器人，支持长文本阅读的智能助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/2-Kimi.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/2-Kimi.svg'
         },
         {
             id: 'notion',
@@ -258,7 +258,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.notion.com/product/ai',
             description: '集成AI的笔记与协作平台',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/3-Notion.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/3-Notion.svg'
         },
         {
             id: 'doubao',
@@ -266,7 +266,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.doubao.com',
             description: '字节跳动推出的AI对话助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/4-豆包.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/4-豆包.svg'
         },
         {
             id: 'qianwen',
@@ -274,7 +274,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.qianwen.com/',
             description: '阿里巴巴推出的AI智能对话大模型',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/5-通义千问.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/5-通义千问.svg'
         },
         {
             id: 'yuanbao',
@@ -282,7 +282,7 @@ const AI_TOOLS_DATA = {
             url: 'https://yuanbao.tencent.com/',
             description: '腾讯推出的基于deepseek模型的AI智能助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/6-腾讯元宝.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/6-腾讯元宝.svg'
         },
         {
             id: 'zhipu',
@@ -290,7 +290,7 @@ const AI_TOOLS_DATA = {
             url: 'https://chatglm.cn/main/alltoolsdetail?lang=zh',
             description: '智谱AI推出的生成式AI助手，基于ChatGLM模型',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/7-智谱清言.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/7-智谱清言.svg'
         },
         {
             id: 'xinghuo',
@@ -298,7 +298,7 @@ const AI_TOOLS_DATA = {
             url: 'https://xinghuo.xfyun.cn/desk',
             description: '科大讯飞推出的智能AI对话系统',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/8-讯飞星火.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/8-讯飞星火.svg'
         },
         {
             id: 'iflyrec',
@@ -306,7 +306,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.iflyrec.com/',
             description: '科大讯飞推出的AI会议转录与办公助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/9-讯飞智慧办公平台.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/9-讯飞智慧办公平台.svg'
         },
         {
             id: 'yiyan',
@@ -314,7 +314,7 @@ const AI_TOOLS_DATA = {
             url: 'https://yiyan.baidu.com/',
             description: '百度推出的智能对话大模型',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/10-文心一言.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/10-文心一言.svg'
         },
         {
             id: 'wenku',
@@ -322,7 +322,7 @@ const AI_TOOLS_DATA = {
             url: 'https://wenku.baidu.com',
             description: 'AI辅助文档生成与处理',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/11-百度文库AI.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/11-百度文库AI.svg'
         },
         {
             id: 'lingxi',
@@ -330,7 +330,7 @@ const AI_TOOLS_DATA = {
             url: 'https://lingxi.wps.cn/',
             description: 'WPS推出的AI智能聊天工具',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/12-WPS灵犀.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/12-WPS灵犀.svg'
         },
         {
             id: 'chatgpt',
@@ -338,7 +338,7 @@ const AI_TOOLS_DATA = {
             url: 'https://chat.openai.com/',
             description: 'OpenAI开发的AI对话系统',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/13-ChatGPT.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/13-ChatGPT.svg'
         },
         {
             id: 'claude',
@@ -346,7 +346,7 @@ const AI_TOOLS_DATA = {
             url: 'https://claude.ai/',
             description: 'Anthropic开发的AI办公智能助手',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/14-Claude.AI.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/14-Claude.AI.svg'
         },
         {
             id: 'grok',
@@ -354,7 +354,7 @@ const AI_TOOLS_DATA = {
             url: 'https://x.ai/',
             description: '马斯克旗下的xAI公司开发的AI聊天机器人',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/15-Grok.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/15-Grok.svg'
         },
         {
             id: 'perplexity',
@@ -362,7 +362,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.perplexity.ai/',
             description: 'AI驱动的联网搜索问答工具',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/16-Perplexity.AI.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/16-Perplexity.AI.svg'
         },
         {
             id: 'wpsai',
@@ -370,7 +370,7 @@ const AI_TOOLS_DATA = {
             url: 'https://ai.wps.cn/',
             description: 'WPS办公软件AI功能合集',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/17-WPS AI.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/17-WPS AI.svg'
         },
         {
             id: 'mindshow',
@@ -378,7 +378,7 @@ const AI_TOOLS_DATA = {
             url: 'https://mindshow.fun/',
             description: 'AI一键生成PPT演示稿',
             category: 'chat',
-            logo: 'assets/logos/2-AI对话聊天-办公/18-Mindshow.AI.svg'
+            logo: 'assets/logos/2-AI Conversation Chat - Office Work/18-Mindshow.AI.svg'
         },
 
         // ========== AI图像生成 ==========
@@ -396,7 +396,7 @@ const AI_TOOLS_DATA = {
             url: 'https://tongyi.aliyun.com/wan/',
             description: '阿里通义AI图像生成工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/2-通义万相.svg'
+            logo: 'assets/logos/3-AI Image Generation/2-通义万相.svg'
         },
         {
             id: 'dreamstudio',
@@ -404,7 +404,7 @@ const AI_TOOLS_DATA = {
             url: 'https://stability.ai/dreamstudio',
             description: 'Stability AI官方图像生成工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/3-Dream Studio.svg'
+            logo: 'assets/logos/3-AI Image Generation/3-Dream Studio.svg'
         },
         {
             id: 'midjourney',
@@ -412,7 +412,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.midjourney.com',
             description: '知名AI绘画与图像生成平台',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/4-Midjourney.svg'
+            logo: 'assets/logos/3-AI Image Generation/4-Midjourney.svg'
         },
         {
             id: 'youchuan',
@@ -420,7 +420,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.youchuan.cn/',
             description: '在线AI绘画创作平台',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/5-悠船.svg'
+            logo: 'assets/logos/3-AI Image Generation/5-悠船.svg'
         },
         {
             id: 'netease-sd',
@@ -428,7 +428,7 @@ const AI_TOOLS_DATA = {
             url: 'https://sd.study.163.com/',
             description: '网易云课堂推出的AI作画平台，在线使用Stable Diffusion出图',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/6-网易云课堂 -AI设计工坊.svg'
+            logo: 'assets/logos/3-AI Image Generation/6-网易云课堂 -AI设计工坊.svg'
         },
         {
             id: 'comfyui',
@@ -436,7 +436,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.comfy.org/zh-cn/',
             description: 'ComfyUI是免费开源的AI创作平台，通过节点式可视化工作流为用户提供对图像、视频等生成过程的极致掌控力',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/7-ComfyUI.svg'
+            logo: 'assets/logos/3-AI Image Generation/7-ComfyUI.svg'
         },
         {
             id: 'canva',
@@ -444,7 +444,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.canva.cn/',
             description: '集成多种设计功能的AI的在线设计工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/8-Canvas可画.svg'
+            logo: 'assets/logos/3-AI Image Generation/8-Canvas可画.svg'
         },
         {
             id: 'liblib',
@@ -452,7 +452,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.liblib.art/',
             description: '国内AI图像创作平台和Stable Diffusion模型社区',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/9-LiblibAI.svg'
+            logo: 'assets/logos/3-AI Image Generation/9-LiblibAI.svg'
         },
         {
             id: 'leonardo',
@@ -460,7 +460,7 @@ const AI_TOOLS_DATA = {
             url: 'https://app.leonardo.ai/',
             description: 'AI驱动的高质量图像生成平台，专注于游戏与数字艺术创作',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/10-Leonardo.AI.svg'
+            logo: 'assets/logos/3-AI Image Generation/10-Leonardo.AI.svg'
         },
         {
             id: 'gaoding',
@@ -468,7 +468,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.gaoding.com/',
             description: '电商营销设计AIGC在线设计工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/11-稿定AI.svg'
+            logo: 'assets/logos/3-AI Image Generation/11-稿定AI.svg'
         },
         {
             id: 'designkit',
@@ -476,7 +476,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.designkit.cn/',
             description: '美图推出的AI设计工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/12-美图设计室.svg'
+            logo: 'assets/logos/3-AI Image Generation/12-美图设计室.svg'
         },
         {
             id: 'yunxiu',
@@ -484,7 +484,7 @@ const AI_TOOLS_DATA = {
             url: 'https://yunxiu.meitu.com/',
             description: '美图推出专业级AI人像精修工具，可用于商业摄影后期处理',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/13-美图云修.svg'
+            logo: 'assets/logos/3-AI Image Generation/13-美图云修.svg'
         },
         {
             id: 'wanxiangyingzao',
@@ -492,7 +492,7 @@ const AI_TOOLS_DATA = {
             url: 'https://agi.taobao.com/',
             description: '淘宝推出的电商营销AI设计平台',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/14-万相营造.svg'
+            logo: 'assets/logos/3-AI Image Generation/14-万相营造.svg'
         },
         {
             id: 'piccopilot',
@@ -500,7 +500,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.piccopilot.com/',
             description: '阿里巴巴国际站推出的电商营销AI图片生成工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/15-Pic Copilot.svg'
+            logo: 'assets/logos/3-AI Image Generation/15-Pic Copilot.svg'
         },
         {
             id: 'taishan',
@@ -508,7 +508,7 @@ const AI_TOOLS_DATA = {
             url: 'https://taishan.qq.com/brand/',
             description: '腾讯云智能图像创作平台',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/16-腾讯云智绘.svg'
+            logo: 'assets/logos/3-AI Image Generation/16-腾讯云智绘.svg'
         },
         {
             id: 'ddesign',
@@ -516,7 +516,7 @@ const AI_TOOLS_DATA = {
             url: 'https://d.design/',
             description: 'AI设计资源与电商模板库',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/17-D.DESIGN堆友.svg'
+            logo: 'assets/logos/3-AI Image Generation/17-D.DESIGN堆友.svg'
         },
         {
             id: 'bigjpg',
@@ -524,7 +524,7 @@ const AI_TOOLS_DATA = {
             url: 'https://bigjpg.com/',
             description: 'AI人工智能图片放大工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/18-BigJPG.svg'
+            logo: 'assets/logos/3-AI Image Generation/18-BigJPG.svg'
         },
         {
             id: 'aicolors',
@@ -532,7 +532,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.bairesdev.com/tools/ai-colors',
             description: '根据文本生成调色板，提供配色案例参考',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/19-AIcolors.svg'
+            logo: 'assets/logos/3-AI Image Generation/19-AIcolors.svg'
         },
         {
             id: 'zitijia',
@@ -540,7 +540,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.ai.zitijia.com/',
             description: 'AI生成与设计字体工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/20-字体家AI神笔.svg'
+            logo: 'assets/logos/3-AI Image Generation/20-字体家AI神笔.svg'
         },
         {
             id: 'yanque',
@@ -548,7 +548,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.yanqueai.com/',
             description: '智能logo设计和营销视频制作工具。可生成logo的静态和动态图像、样机效果图和完整VI方案',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/21-燕雀光年.svg'
+            logo: 'assets/logos/3-AI Image Generation/21-燕雀光年.svg'
         },
         {
             id: 'logomaker',
@@ -556,7 +556,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.logomaker.com.cn/',
             description: 'AI辅助Logo设计和VI效果图设计平台',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/22-标智客.svg'
+            logo: 'assets/logos/3-AI Image Generation/22-标智客.svg'
         },
         {
             id: 'logosc',
@@ -572,7 +572,7 @@ const AI_TOOLS_DATA = {
             url: 'https://looka.com/',
             description: 'AI驱动的Logo设计平台',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/24-Looka.svg'
+            logo: 'assets/logos/3-AI Image Generation/24-Looka.svg'
         },
         {
             id: 'hunyuan3d',
@@ -580,7 +580,7 @@ const AI_TOOLS_DATA = {
             url: 'https://3d.hunyuan.tencent.com/',
             description: '腾讯3D内容AI创作平台，支持文本和图像输入生成高质量3D模型',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/25-腾讯混元3D.svg'
+            logo: 'assets/logos/3-AI Image Generation/25-腾讯混元3D.svg'
         },
         {
             id: 'meshy',
@@ -588,7 +588,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.meshy.ai/',
             description: 'AI生成3D模型平台',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/26-Meshy.svg'
+            logo: 'assets/logos/3-AI Image Generation/26-Meshy.svg'
         },
         {
             id: 'tripo',
@@ -596,7 +596,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.tripo3d.ai/',
             description: 'AI快速生成3D模型工具',
             category: 'image',
-            logo: 'assets/logos/3-AI图像生成/27-Tripo.svg'
+            logo: 'assets/logos/3-AI Image Generation/27-Tripo.svg'
         },
 
         // ========== AI视频动画和数字人制作 ==========
@@ -606,7 +606,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.capcut.cn/',
             description: '字节跳动旗下的智能视频剪辑工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/1-剪映.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/1-剪映.svg'
         },
         {
             id: 'kling',
@@ -614,7 +614,7 @@ const AI_TOOLS_DATA = {
             url: 'https://app.klingai.com/cn/',
             description: 'AI生成真人视频内容工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/2-可灵AI.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/2-可灵AI.svg'
         },
         {
             id: 'zenvideo',
@@ -622,7 +622,7 @@ const AI_TOOLS_DATA = {
             url: 'https://zenvideo.qq.com/',
             description: '腾讯智能视频创作平台',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/3-腾讯智影.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/3-腾讯智影.svg'
         },
         {
             id: 'hunyuan-video',
@@ -630,7 +630,7 @@ const AI_TOOLS_DATA = {
             url: 'https://video.hunyuan.tencent.com/',
             description: '腾讯AIGC视频生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/4-腾讯混元AI视频.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/4-腾讯混元AI视频.svg'
         },
         {
             id: 'hailuo',
@@ -638,7 +638,7 @@ const AI_TOOLS_DATA = {
             url: 'https://hailuoai.com/',
             description: 'AI视频生成与剪辑平台',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/5-海螺AI.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/5-海螺AI.svg'
         },
         {
             id: 'soundview',
@@ -646,7 +646,7 @@ const AI_TOOLS_DATA = {
             url: 'https://soundviewai.com/',
             description: 'AI视频脚本生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/6-Soundview.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/6-Soundview.svg'
         },
         {
             id: 'vidu',
@@ -654,7 +654,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.vidu.cn/',
             description: 'AI生成高真实感视频工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/7-Vidu.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/7-Vidu.svg'
         },
         {
             id: 'runway',
@@ -662,7 +662,7 @@ const AI_TOOLS_DATA = {
             url: 'https://runwayml.com',
             description: 'AI视频编辑与生成平台',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/8-Runway.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/8-Runway.svg'
         },
         {
             id: 'stablevideo',
@@ -670,7 +670,7 @@ const AI_TOOLS_DATA = {
             url: 'https://stability.ai/stable-video',
             description: 'Stability AI视频生成模型',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/9-Stable Video.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/9-Stable Video.svg'
         },
         {
             id: 'hifly',
@@ -678,7 +678,7 @@ const AI_TOOLS_DATA = {
             url: 'https://hifly.cc',
             description: 'AI数字人视频生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/10-飞影数字人.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/10-飞影数字人.svg'
         },
         {
             id: 'chanjing',
@@ -686,7 +686,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.chanjing.cc',
             description: '数字人定制与内容生成平台',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/11-蝉镜.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/11-蝉镜.svg'
         },
         {
             id: 'bihuo',
@@ -694,7 +694,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.bihuoai.com/',
             description: '数字人直播与视频制作',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/12-必火AI数字人.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/12-必火AI数字人.svg'
         },
         {
             id: 'laihua',
@@ -702,7 +702,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.laihua.com/',
             description: 'AI动画与数字人视频制作平台',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/13-来画.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/13-来画.svg'
         },
         {
             id: 'paivideo',
@@ -710,7 +710,7 @@ const AI_TOOLS_DATA = {
             url: 'https://pai.video/',
             description: 'AI真人视频生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/14-拍我AI.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/14-拍我AI.svg'
         },
         {
             id: 'moki',
@@ -718,7 +718,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.moki.cn/',
             description: 'MOKI是一款国产AI视频与AI动画生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/15-MOKI.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/15-MOKI.svg'
         },
         {
             id: 'genmo',
@@ -726,7 +726,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.genmo.ai/',
             description: 'AI视频内容生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/16-genmo.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/16-genmo.svg'
         },
         {
             id: 'pika',
@@ -734,7 +734,7 @@ const AI_TOOLS_DATA = {
             url: 'https://pika.art/',
             description: 'AI视频与动画生成和编辑工具',
             category: 'video',
-            logo: 'assets/logos/4-AI视频和动画工具-数字人制作/17-Pika.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/17-Pika.svg'
         },
 
         // ========== AI音频工具 ==========
@@ -744,7 +744,7 @@ const AI_TOOLS_DATA = {
             url: 'https://tianyin.music.163.com/',
             description: 'AI辅助音乐创作平台',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/1-网易天音.svg'
+            logo: 'assets/logos/5-AI Audio Tool/1-网易天音.svg'
         },
         {
             id: 'tianqin',
@@ -752,7 +752,7 @@ const AI_TOOLS_DATA = {
             url: 'https://y.qq.com/tme_studio/',
             description: '腾讯AI音乐创作工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/2-腾讯天琴.svg'
+            logo: 'assets/logos/5-AI Audio Tool/2-腾讯天琴.svg'
         },
         {
             id: 'mureka',
@@ -760,7 +760,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.mureka.cn/',
             description: 'AI音乐商用创作平台',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/3-Mureka.svg'
+            logo: 'assets/logos/5-AI Audio Tool/3-Mureka.svg'
         },
         {
             id: 'moyin',
@@ -768,7 +768,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.moyin.com/',
             description: 'AI配音与语音合成工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/4-魔音工坊.svg'
+            logo: 'assets/logos/5-AI Audio Tool/4-魔音工坊.svg'
         },
         {
             id: 'dubbingx',
@@ -776,7 +776,7 @@ const AI_TOOLS_DATA = {
             url: 'https://app.dubbingx.com/',
             description: '一款专注于AI配音与语音合成（TTS）的智能工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/5-智声云配.svg'
+            logo: 'assets/logos/5-AI Audio Tool/5-智声云配.svg'
         },
         {
             id: 'fishaudio',
@@ -784,7 +784,7 @@ const AI_TOOLS_DATA = {
             url: 'https://fishspeech.net/',
             description: '语音合成与AI配音工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/6-Fish Audio.svg'
+            logo: 'assets/logos/5-AI Audio Tool/6-Fish Audio.svg'
         },
         {
             id: 'lalal',
@@ -792,7 +792,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.lalal.ai/',
             description: '人声与伴奏AI分离工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/7-LALA.AI.svg'
+            logo: 'assets/logos/5-AI Audio Tool/7-LALA.AI.svg'
         },
         {
             id: 'lanzao',
@@ -800,7 +800,7 @@ const AI_TOOLS_DATA = {
             url: 'https://aigc.unisound.com/',
             description: '云知声旗下的AI配音和声音克隆平台',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/8-蓝藻AI.svg'
+            logo: 'assets/logos/5-AI Audio Tool/8-蓝藻AI.svg'
         },
         {
             id: 'bgmcat',
@@ -808,7 +808,7 @@ const AI_TOOLS_DATA = {
             url: 'https://bgmcat.com/',
             description: 'AI背景音乐生成平台',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/9-BGM猫.svg'
+            logo: 'assets/logos/5-AI Audio Tool/9-BGM猫.svg'
         },
         {
             id: 'stableaudio',
@@ -816,7 +816,7 @@ const AI_TOOLS_DATA = {
             url: 'https://stability.ai/stable-audio',
             description: 'Stability AI音频生成工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI音频工具/10-Stable Audio.svg'
+            logo: 'assets/logos/5-AI Audio Tool/10-Stable Audio.svg'
         },
 
         // ========== AI界面设计与前端开发 ==========
@@ -826,7 +826,7 @@ const AI_TOOLS_DATA = {
             url: 'https://pixso.cn/pixso-ai-generator/',
             description: '集成AI的UI协作设计工具',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/1-Pixso AI.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/1-Pixso AI.svg'
         },
         {
             id: 'mastergo',
@@ -834,7 +834,7 @@ const AI_TOOLS_DATA = {
             url: 'https://mastergo.com',
             description: 'AI辅助UI设计平台',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/2-MasterGo AI.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/2-MasterGo AI.svg'
         },
         {
             id: 'jsdesign',
@@ -842,7 +842,7 @@ const AI_TOOLS_DATA = {
             url: 'https://js.design',
             description: '在线UI设计AI工具',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/3-即时设计AI.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/3-即时设计AI.svg'
         },
         {
             id: 'modao',
@@ -850,7 +850,7 @@ const AI_TOOLS_DATA = {
             url: 'https://modao.cc/feature/ai',
             description: 'AI辅助原型设计工具',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/4-墨刀AI.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/4-墨刀AI.svg'
         },
         {
             id: 'figmaai',
@@ -858,7 +858,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.figma.com/ai/',
             description: 'Figma内置AI设计功能',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/5-Figma AI.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/5-Figma AI.svg'
         },
         {
             id: 'visily',
@@ -866,7 +866,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.visily.ai/',
             description: '线框图转高保真UI设计工具',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/6-Visily.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/6-Visily.svg'
         },
         {
             id: 'qoqo',
@@ -874,7 +874,7 @@ const AI_TOOLS_DATA = {
             url: 'https://qoqo.ai/',
             description: 'AI用户旅程图生成工具',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/7-QoQo.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/7-QoQo.svg'
         },
         {
             id: 'lovable',
@@ -882,7 +882,7 @@ const AI_TOOLS_DATA = {
             url: 'https://lovable.dev/',
             description: 'UI智能设计平台，可生成单个网页的前端代码',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/8-Lovable.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/8-Lovable.svg'
         },
         {
             id: 'v0',
@@ -890,7 +890,7 @@ const AI_TOOLS_DATA = {
             url: 'https://v0.dev/',
             description: '文本生成UI组件工具，可生成单个网页的前端代码',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/9-V0.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/9-V0.svg'
         },
         {
             id: 'bolt',
@@ -898,7 +898,7 @@ const AI_TOOLS_DATA = {
             url: 'https://bolt.new/',
             description: 'AI快速生成前端页面工具，可生成完整的网站结构代码',
             category: 'ui',
-            logo: 'assets/logos/6-AI界面设计-前端开发/10-Bolt.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/10-Bolt.svg'
         },
 
         // ========== AI编程开发 ==========
@@ -908,7 +908,7 @@ const AI_TOOLS_DATA = {
             url: 'https://cursor.com/',
             description: '集成多个AI大模型的代码编辑器与编程助手，显著提升开发效率',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/1-Cursor.svg'
+            logo: 'assets/logos/7-AI Programming Development/1-Cursor.svg'
         },
         {
             id: 'windsurf',
@@ -916,7 +916,7 @@ const AI_TOOLS_DATA = {
             url: 'https://windsurf.com',
             description: 'AI辅助编程开发工具',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/2-Windsurf.svg'
+            logo: 'assets/logos/7-AI Programming Development/2-Windsurf.svg'
         },
         {
             id: 'trae',
@@ -924,7 +924,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.trae.cn/',
             description: '字节跳动推出的AI编程助手',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/3-Trae.svg'
+            logo: 'assets/logos/7-AI Programming Development/3-Trae.svg'
         },
         {
             id: 'qoder',
@@ -932,7 +932,7 @@ const AI_TOOLS_DATA = {
             url: 'https://qoder.com',
             description: 'AI辅助代码生成工具',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/4-Qoder.svg'
+            logo: 'assets/logos/7-AI Programming Development/4-Qoder.svg'
         },
         {
             id: 'lingma',
@@ -940,7 +940,7 @@ const AI_TOOLS_DATA = {
             url: 'https://lingma.aliyun.com/',
             description: '阿里云智能编码助手',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/5-通义灵码.svg'
+            logo: 'assets/logos/7-AI Programming Development/5-通义灵码.svg'
         },
         {
             id: 'codebuddy',
@@ -948,7 +948,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.codebuddy.ai',
             description: '腾讯开发的智能代码编辑器',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/6-CodeBuddy IDE.svg'
+            logo: 'assets/logos/7-AI Programming Development/6-CodeBuddy IDE.svg'
         },
         {
             id: 'github',
@@ -956,7 +956,7 @@ const AI_TOOLS_DATA = {
             url: 'https://github.com/',
             description: 'AI项目开发的核心协作平台，支持代码托管、协作与开源生态构建',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/7-Github.svg'
+            logo: 'assets/logos/7-AI Programming Development/7-Github.svg'
         },
         {
             id: 'vercel',
@@ -964,7 +964,7 @@ const AI_TOOLS_DATA = {
             url: 'https://vercel.com/',
             description: 'AI应用一键部署与加速平台，专注前端与全栈项目云端发布',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/8-Vercel.svg'
+            logo: 'assets/logos/7-AI Programming Development/8-Vercel.svg'
         },
         {
             id: 'coze',
@@ -972,7 +972,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.coze.cn/',
             description: '字节跳动推出的一站式AI Bot开发平台',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/9-Coze.svg'
+            logo: 'assets/logos/7-AI Programming Development/9-Coze.svg'
         },
         {
             id: 'qianfan',
@@ -980,7 +980,7 @@ const AI_TOOLS_DATA = {
             url: 'https://cloud.baidu.com/product-s/qianfan_home',
             description: '百度智能体开发平台',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/10-百度千帆.svg'
+            logo: 'assets/logos/7-AI Programming Development/10-百度千帆.svg'
         },
         {
             id: 'electron',
@@ -988,7 +988,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.electronjs.org/',
             description: '跨平台桌面应用开发框架',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/11-Electron.svg'
+            logo: 'assets/logos/7-AI Programming Development/11-Electron.svg'
         },
         {
             id: 'expo',
@@ -996,7 +996,7 @@ const AI_TOOLS_DATA = {
             url: 'https://expo.dev/',
             description: 'React Native移动应用开发平台',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/12-Expo.svg'
+            logo: 'assets/logos/7-AI Programming Development/12-Expo.svg'
         },
         {
             id: 'flutter',
@@ -1004,7 +1004,7 @@ const AI_TOOLS_DATA = {
             url: 'https://flutter.cn/',
             description: '谷歌跨平台UI开发框架',
             category: 'code',
-            logo: 'assets/logos/7-AI编程开发/13-Flutter.svg'
+            logo: 'assets/logos/7-AI Programming Development/13-Flutter.svg'
         },
 
         // ========== AI多功能集成平台 ==========
@@ -1014,7 +1014,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.volcengine.com',
             description: '字节跳动旗下的企业级技术服务平台，提供云服务、AI技术支持等一站式解决方案',
             category: 'platform',
-            logo: 'assets/logos/8-AI多功能集成平台/1-火山引擎.svg'
+            logo: 'assets/logos/8-AI Multi-functional Integrated Platform/1-火山引擎.svg'
         },
         {
             id: 'cherrystudio',
@@ -1022,7 +1022,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.cherry-ai.com',
             description: '可集成多款AI模型的 AI 对话客户端；支持多格式文件的导入和网页导入等来组件AI个性化知识库',
             category: 'platform',
-            logo: 'assets/logos/8-AI多功能集成平台/2-Cherry Studio.svg'
+            logo: 'assets/logos/8-AI Multi-functional Integrated Platform/2-Cherry Studio.svg'
         },
         {
             id: 'askmanyai',
@@ -1030,7 +1030,7 @@ const AI_TOOLS_DATA = {
             url: 'https://askmany.cn/',
             description: '集成多款AI模型的AI对话与智能助手平台',
             category: 'platform',
-            logo: 'assets/logos/8-AI多功能集成平台/3-AskManyAI.svg'
+            logo: 'assets/logos/8-AI Multi-functional Integrated Platform/3-AskManyAI.svg'
         },
         {
             id: 'poe',
@@ -1038,7 +1038,7 @@ const AI_TOOLS_DATA = {
             url: 'https://poe.com/',
             description: '由美国知识问答社区Quora推出的、集成多款AI模型的聊天平台',
             category: 'platform',
-            logo: 'assets/logos/8-AI多功能集成平台/4-Poe.svg'
+            logo: 'assets/logos/8-AI Multi-functional Integrated Platform/4-Poe.svg'
         },
 
         // ========== AI资源社区 ==========
@@ -1048,7 +1048,7 @@ const AI_TOOLS_DATA = {
             url: 'https://promptpilot.volcengine.com/',
             description: '由字节跳动火山引擎推出的AI提示词助手，帮助用户生成、优化和管理提示词（Prompt）',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/1-PromptPilot.svg'
+            logo: 'assets/logos/9-AI Resources/1-PromptPilot.svg'
         },
         {
             id: 'huggingface',
@@ -1056,7 +1056,7 @@ const AI_TOOLS_DATA = {
             url: 'https://huggingface.co',
             description: 'AI模型与数据资源开源社区',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/2-Hugging Face.svg'
+            logo: 'assets/logos/9-AI Resources/2-Hugging Face.svg'
         },
         {
             id: 'civitai',
@@ -1064,7 +1064,7 @@ const AI_TOOLS_DATA = {
             url: 'https://civitai.com',
             description: 'Stable Diffusion模型资源分享平台',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/3-Civitai.svg'
+            logo: 'assets/logos/9-AI Resources/3-Civitai.svg'
         },
         {
             id: 'smithery',
@@ -1072,7 +1072,7 @@ const AI_TOOLS_DATA = {
             url: 'https://smithery.ai/',
             description: 'MCP工具资源聚合与分享网站',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/4-Smithery.AI.svg'
+            logo: 'assets/logos/9-AI Resources/4-Smithery.AI.svg'
         },
         {
             id: 'modelscope',
@@ -1080,7 +1080,7 @@ const AI_TOOLS_DATA = {
             url: 'https://modelscope.cn',
             description: '阿里云推出的AI大模型资源的开源社区，提供从模型训练到部署的全流程服务',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/5-魔搭社区.svg'
+            logo: 'assets/logos/9-AI Resources/5-魔搭社区.svg'
         },
         {
             id: 'siliconflow',
@@ -1088,7 +1088,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.siliconflow.cn/',
             description: '国产AI模型托管与服务平台',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/6-硅基流动.svg'
+            logo: 'assets/logos/9-AI Resources/6-硅基流动.svg'
         },
         {
             id: 'replicate',
@@ -1096,7 +1096,7 @@ const AI_TOOLS_DATA = {
             url: 'https://replicate.com/',
             description: 'AI模型云端部署与运行平台',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/7-Replicate.svg'
+            logo: 'assets/logos/9-AI Resources/7-Replicate.svg'
         },
         {
             id: 'kaggle',
@@ -1104,7 +1104,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.kaggle.com/',
             description: '数据科学与AI竞赛社区，包含大量机器学习所需数据资源',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/8-Kaggle.svg'
+            logo: 'assets/logos/9-AI Resources/8-Kaggle.svg'
         },
         {
             id: 'aimodel',
@@ -1112,7 +1112,7 @@ const AI_TOOLS_DATA = {
             url: 'https://ai.gitee.com/',
             description: '由开源中国（Gitee）推出的AI应用开发的开源平台, 提供各种模型和数据集下载资源',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/9-模力方舟.svg'
+            logo: 'assets/logos/9-AI Resources/9-模力方舟.svg'
         },
         {
             id: 'labelstudio',
@@ -1120,7 +1120,7 @@ const AI_TOOLS_DATA = {
             url: 'https://labelstud.io/',
             description: '免费的机器学习数据标注AI平台。支持图像、文本、音频、视频等多种数据的分类、检测',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/10-Label Studio.svg'
+            logo: 'assets/logos/9-AI Resources/10-Label Studio.svg'
         },
         {
             id: 'cvat',
@@ -1128,7 +1128,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.cvat.ai/',
             description: '计算机视觉标注工具，擅长图像和视频的物体检测、跟踪与分割，适合处理大型视觉数据集',
             category: 'community',
-            logo: 'assets/logos/9-AI资源社区/11-CVAT.svg'
+            logo: 'assets/logos/9-AI Resources/11-CVAT.svg'
         },
 
         // ========== AI学习网站 ==========
@@ -1138,7 +1138,7 @@ const AI_TOOLS_DATA = {
             url: 'https://qwyofiv4bd3.feishu.cn/wiki/BEo9wlaDriAHfkkLS7Cc1kxVn9s',
             description: 'AI与编程学习资源库',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/1-MixLab AI编程知识库.svg'
+            logo: 'assets/logos/10-AI Learning Website/1-MixLab AI编程知识库.svg'
         },
         {
             id: 'aidaxue',
@@ -1146,7 +1146,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.aidaxue.com/',
             description: 'AI技术与应用学习平台',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/2-科大讯飞AI大学堂.svg'
+            logo: 'assets/logos/10-AI Learning Website/2-科大讯飞AI大学堂.svg'
         },
         {
             id: 'uied',
@@ -1154,7 +1154,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.uied.cn/',
             description: 'UI与AI设计学习社区',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/3-UIED学习社区.svg'
+            logo: 'assets/logos/10-AI Learning Website/3-UIED学习社区.svg'
         },
         {
             id: 'uisdc-learn',
@@ -1162,7 +1162,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.uisdc.com/',
             description: 'AIGC设计师学习与交流平台',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/4-优设网学习社区.svg'
+            logo: 'assets/logos/10-AI Learning Website/4-优设网学习社区.svg'
         },
         {
             id: 'aliyun-ai',
@@ -1170,7 +1170,7 @@ const AI_TOOLS_DATA = {
             url: 'https://developer.aliyun.com/learning/roadmap/ai',
             description: '阿里云提供完整的人工智能学习路径',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/5-阿里云人工智学习路线.svg'
+            logo: 'assets/logos/10-AI Learning Website/5-阿里云人工智学习路线.svg'
         },
         {
             id: 'deeplearningai',
@@ -1178,7 +1178,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.deeplearning.ai/',
             description: '由人工智能领域知名专家吴恩达(Andrew Ng)创立的AI学习平台',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/6-DeepLearning.AI.svg'
+            logo: 'assets/logos/10-AI Learning Website/6-DeepLearning.AI.svg'
         },
         {
             id: 'mlbeginner',
@@ -1186,7 +1186,7 @@ const AI_TOOLS_DATA = {
             url: 'https://microsoft.github.io/ML-For-Beginners/',
             description: '微软云倡导者团队开发的面相初学者的机器学习课程项目',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/7-ML for Beginner.svg'
+            logo: 'assets/logos/10-AI Learning Website/7-ML for Beginner.svg'
         },
         {
             id: 'coding',
@@ -1194,7 +1194,7 @@ const AI_TOOLS_DATA = {
             url: 'https://coding.qq.com/',
             description: '青少年编程与AI学习平台',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/8-腾讯扣叮.svg'
+            logo: 'assets/logos/10-AI Learning Website/8-腾讯扣叮.svg'
         },
         {
             id: 'huaweicloud',
@@ -1202,7 +1202,7 @@ const AI_TOOLS_DATA = {
             url: 'https://edu.huaweicloud.com/',
             description: '华为云技术与AI课程',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/9-华为云在线课堂.svg'
+            logo: 'assets/logos/10-AI Learning Website/9-华为云在线课堂.svg'
         },
         {
             id: 'showmeai',
@@ -1210,7 +1210,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.showmeai.tech/',
             description: '人工智能领域的资料库和学习社区',
             category: 'learning',
-            logo: 'assets/logos/10-AI学习网站/10-ShowMeAI知识社区.svg'
+            logo: 'assets/logos/10-AI Learning Website/10-ShowMeAI知识社区.svg'
         }
     ]
 };

@@ -606,7 +606,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.capcut.cn/',
             description: '字节跳动旗下的智能视频剪辑工具',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/1-剪映.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/1-Capcut.svg'
         },
         {
             id: 'kling',
@@ -614,7 +614,7 @@ const AI_TOOLS_DATA = {
             url: 'https://app.klingai.com/cn/',
             description: 'AI生成真人视频内容工具',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/2-可灵AI.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/2-KelingAI.svg'
         },
         {
             id: 'zenvideo',
@@ -622,7 +622,7 @@ const AI_TOOLS_DATA = {
             url: 'https://zenvideo.qq.com/',
             description: '腾讯智能视频创作平台',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/3-腾讯智影.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/3-Tencent-Zenvideo.svg'
         },
         {
             id: 'hunyuan-video',
@@ -630,7 +630,7 @@ const AI_TOOLS_DATA = {
             url: 'https://video.hunyuan.tencent.com/',
             description: '腾讯AIGC视频生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/4-腾讯混元AI视频.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/4-TencentHunyuanVideo.svg'
         },
         {
             id: 'hailuo',
@@ -638,7 +638,7 @@ const AI_TOOLS_DATA = {
             url: 'https://hailuoai.com/',
             description: 'AI视频生成与剪辑平台',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/5-海螺AI.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/5-HailuoAI.svg'
         },
         {
             id: 'soundview',
@@ -678,7 +678,7 @@ const AI_TOOLS_DATA = {
             url: 'https://hifly.cc',
             description: 'AI数字人视频生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/10-飞影数字人.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/10-hifly.svg'
         },
         {
             id: 'chanjing',
@@ -686,7 +686,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.chanjing.cc',
             description: '数字人定制与内容生成平台',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/11-蝉镜.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/11-chanjing.svg'
         },
         {
             id: 'bihuo',
@@ -694,7 +694,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.bihuoai.com/',
             description: '数字人直播与视频制作',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/12-必火AI数字人.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/12-bihuoAI.svg'
         },
         {
             id: 'laihua',
@@ -702,7 +702,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.laihua.com/',
             description: 'AI动画与数字人视频制作平台',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/13-来画.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/13-laihuaAI.svg'
         },
         {
             id: 'paivideo',
@@ -710,7 +710,7 @@ const AI_TOOLS_DATA = {
             url: 'https://pai.video/',
             description: 'AI真人视频生成工具',
             category: 'video',
-            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/14-拍我AI.svg'
+            logo: 'assets/logos/4-AI Video and Animation Tools - Digital Human Creation/14-paiAI.svg'
         },
         {
             id: 'moki',
@@ -744,7 +744,7 @@ const AI_TOOLS_DATA = {
             url: 'https://tianyin.music.163.com/',
             description: 'AI辅助音乐创作平台',
             category: 'audio',
-            logo: 'assets/logos/5-AI Audio Tool/1-网易天音.svg'
+            logo: 'assets/logos/5-AI Audio Tool/1-Netease Tianyin.svg'
         },
         {
             id: 'tianqin',
@@ -752,7 +752,7 @@ const AI_TOOLS_DATA = {
             url: 'https://y.qq.com/tme_studio/',
             description: '腾讯AI音乐创作工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI Audio Tool/2-腾讯天琴.svg'
+            logo: 'assets/logos/5-AI Audio Tool/2-Tencent Tianqin.svg'
         },
         {
             id: 'mureka',
@@ -768,7 +768,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.moyin.com/',
             description: 'AI配音与语音合成工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI Audio Tool/4-魔音工坊.svg'
+            logo: 'assets/logos/5-AI Audio Tool/4-moyinAI.svg'
         },
         {
             id: 'dubbingx',
@@ -776,7 +776,7 @@ const AI_TOOLS_DATA = {
             url: 'https://app.dubbingx.com/',
             description: '一款专注于AI配音与语音合成（TTS）的智能工具',
             category: 'audio',
-            logo: 'assets/logos/5-AI Audio Tool/5-智声云配.svg'
+            logo: 'assets/logos/5-AI Audio Tool/5-dubbingx.svg'
         },
         {
             id: 'fishaudio',
@@ -800,7 +800,7 @@ const AI_TOOLS_DATA = {
             url: 'https://aigc.unisound.com/',
             description: '云知声旗下的AI配音和声音克隆平台',
             category: 'audio',
-            logo: 'assets/logos/5-AI Audio Tool/8-蓝藻AI.svg'
+            logo: 'assets/logos/5-AI Audio Tool/8-lanzaoAI.svg'
         },
         {
             id: 'bgmcat',
@@ -808,7 +808,7 @@ const AI_TOOLS_DATA = {
             url: 'https://bgmcat.com/',
             description: 'AI背景音乐生成平台',
             category: 'audio',
-            logo: 'assets/logos/5-AI Audio Tool/9-BGM猫.svg'
+            logo: 'assets/logos/5-AI Audio Tool/9-BGMCat.svg'
         },
         {
             id: 'stableaudio',
@@ -842,7 +842,7 @@ const AI_TOOLS_DATA = {
             url: 'https://js.design',
             description: '在线UI设计AI工具',
             category: 'ui',
-            logo: 'assets/logos/6-AI Interface Design - Front-end Development/3-即时设计AI.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/3-jsDesignAI.svg'
         },
         {
             id: 'modao',
@@ -850,7 +850,7 @@ const AI_TOOLS_DATA = {
             url: 'https://modao.cc/feature/ai',
             description: 'AI辅助原型设计工具',
             category: 'ui',
-            logo: 'assets/logos/6-AI Interface Design - Front-end Development/4-墨刀AI.svg'
+            logo: 'assets/logos/6-AI Interface Design - Front-end Development/4-modaoAI.svg'
         },
         {
             id: 'figmaai',
@@ -940,7 +940,7 @@ const AI_TOOLS_DATA = {
             url: 'https://lingma.aliyun.com/',
             description: '阿里云智能编码助手',
             category: 'code',
-            logo: 'assets/logos/7-AI Programming Development/5-通义灵码.svg'
+            logo: 'assets/logos/7-AI Programming Development/5-lingma.svg'
         },
         {
             id: 'codebuddy',
@@ -980,7 +980,7 @@ const AI_TOOLS_DATA = {
             url: 'https://cloud.baidu.com/product-s/qianfan_home',
             description: '百度智能体开发平台',
             category: 'code',
-            logo: 'assets/logos/7-AI Programming Development/10-百度千帆.svg'
+            logo: 'assets/logos/7-AI Programming Development/10-BaiduQianfan.svg'
         },
         {
             id: 'electron',
@@ -1014,7 +1014,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.volcengine.com',
             description: '字节跳动旗下的企业级技术服务平台，提供云服务、AI技术支持等一站式解决方案',
             category: 'platform',
-            logo: 'assets/logos/8-AI Multi-functional Integrated Platform/1-火山引擎.svg'
+            logo: 'assets/logos/8-AI Multi-functional Integrated Platform/1-volcengine.svg'
         },
         {
             id: 'cherrystudio',
@@ -1080,7 +1080,7 @@ const AI_TOOLS_DATA = {
             url: 'https://modelscope.cn',
             description: '阿里云推出的AI大模型资源的开源社区，提供从模型训练到部署的全流程服务',
             category: 'community',
-            logo: 'assets/logos/9-AI Resources/5-魔搭社区.svg'
+            logo: 'assets/logos/9-AI Resources/5-modelscope.svg'
         },
         {
             id: 'siliconflow',
@@ -1088,7 +1088,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.siliconflow.cn/',
             description: '国产AI模型托管与服务平台',
             category: 'community',
-            logo: 'assets/logos/9-AI Resources/6-硅基流动.svg'
+            logo: 'assets/logos/9-AI Resources/6-SiliconFlow.svg'
         },
         {
             id: 'replicate',
@@ -1112,7 +1112,7 @@ const AI_TOOLS_DATA = {
             url: 'https://ai.gitee.com/',
             description: '由开源中国（Gitee）推出的AI应用开发的开源平台, 提供各种模型和数据集下载资源',
             category: 'community',
-            logo: 'assets/logos/9-AI Resources/9-模力方舟.svg'
+            logo: 'assets/logos/9-AI Resources/9-MoLiFangZhouAI.svg'
         },
         {
             id: 'labelstudio',
@@ -1138,7 +1138,7 @@ const AI_TOOLS_DATA = {
             url: 'https://qwyofiv4bd3.feishu.cn/wiki/BEo9wlaDriAHfkkLS7Cc1kxVn9s',
             description: 'AI与编程学习资源库',
             category: 'learning',
-            logo: 'assets/logos/10-AI Learning Website/1-MixLab AI编程知识库.svg'
+            logo: 'assets/logos/10-AI Learning Website/1-MixLab AI.svg'
         },
         {
             id: 'aidaxue',
@@ -1146,7 +1146,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.aidaxue.com/',
             description: 'AI技术与应用学习平台',
             category: 'learning',
-            logo: 'assets/logos/10-AI Learning Website/2-科大讯飞AI大学堂.svg'
+            logo: 'assets/logos/10-AI Learning Website/2-xfAI-University.svg'
         },
         {
             id: 'uied',
@@ -1154,7 +1154,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.uied.cn/',
             description: 'UI与AI设计学习社区',
             category: 'learning',
-            logo: 'assets/logos/10-AI Learning Website/3-UIED学习社区.svg'
+            logo: 'assets/logos/10-AI Learning Website/3-UIED.svg'
         },
         {
             id: 'uisdc-learn',
@@ -1162,7 +1162,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.uisdc.com/',
             description: 'AIGC设计师学习与交流平台',
             category: 'learning',
-            logo: 'assets/logos/10-AI Learning Website/4-优设网学习社区.svg'
+            logo: 'assets/logos/10-AI Learning Website/4-UISDC Learning.svg'
         },
         {
             id: 'aliyun-ai',
@@ -1170,7 +1170,7 @@ const AI_TOOLS_DATA = {
             url: 'https://developer.aliyun.com/learning/roadmap/ai',
             description: '阿里云提供完整的人工智能学习路径',
             category: 'learning',
-            logo: 'assets/logos/10-AI Learning Website/5-阿里云人工智学习路线.svg'
+            logo: 'assets/logos/10-AI Learning Website/5-aliyun-AI-Learning.svg'
         },
         {
             id: 'deeplearningai',
@@ -1194,7 +1194,7 @@ const AI_TOOLS_DATA = {
             url: 'https://coding.qq.com/',
             description: '青少年编程与AI学习平台',
             category: 'learning',
-            logo: 'assets/logos/10-AI Learning Website/8-腾讯扣叮.svg'
+            logo: 'assets/logos/10-AI Learning Website/8-TencentCoding.svg'
         },
         {
             id: 'huaweicloud',
@@ -1202,7 +1202,7 @@ const AI_TOOLS_DATA = {
             url: 'https://edu.huaweicloud.com/',
             description: '华为云技术与AI课程',
             category: 'learning',
-            logo: 'assets/logos/10-AI Learning Website/9-华为云在线课堂.svg'
+            logo: 'assets/logos/10-AI Learning Website/9-huaweicloud.svg'
         },
         {
             id: 'showmeai',
@@ -1210,7 +1210,7 @@ const AI_TOOLS_DATA = {
             url: 'https://www.showmeai.tech/',
             description: '人工智能领域的资料库和学习社区',
             category: 'learning',
-            logo: 'assets/logos/10-AI Learning Website/10-ShowMeAI知识社区.svg'
+            logo: 'assets/logos/10-AI Learning Website/10-ShowMeAI.svg'
         }
     ]
 };

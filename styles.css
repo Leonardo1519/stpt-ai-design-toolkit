@@ -1867,6 +1867,15 @@ body {
     color: var(--text-primary);
 }
 
+.about-page-content p a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+.about-page-content p a:hover {
+    color: inherit;
+}
+
 .about-page-content ul,
 .about-page-content ol {
     margin: 16px 0;
